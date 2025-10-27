@@ -14,7 +14,7 @@ export default async function Home() {
             <img src={torontoSkyline.src} alt="Toronto skyline from Broadview avenue" className="w-full z-1" />
             <div className="absolute bg-blue w-full h-full top-0 left-0"/>
           </div>
-          <span>"Toronto Skyline" by jareed. </span>
+          <span>&quot;Toronto Skyline&quot; by jareed. </span>
           <i>Licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.</i>
         </figcaption>
       </figure>

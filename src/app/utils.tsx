@@ -27,15 +27,17 @@ export const Link = ({url, children}: {url: string; children: React.ReactNode}) 
     </a>
 )
 
-export const setJsonData = async (jsonPath: string, setData: any) => {
+export const setJsonData = async (jsonPath: string, setData: React.Dispatch<React.SetStateAction<any>>) => {
     await fetch(jsonPath)
         .then(res => res.json())
         .then(data => {
             setData(data)
         })
-        .catch((e: any) => console.log(e))
+        .catch((e: Error) => console.log(e))
 }
-
+type fsaStats = {
+    [key: string]: number;
+}
 export const filterFsaStats = (fsaStats: AllStatsFsa[], stat: StatsKey) => {
     const heatmapData: HeatmapData = {
         statName: stat,
@@ -43,7 +45,7 @@ export const filterFsaStats = (fsaStats: AllStatsFsa[], stat: StatsKey) => {
         statMin: 10000,
         stats: {}
     }
-    const statByFsa: any = {}
+    const statByFsa: fsaStats = {}
     fsaStats.forEach(v => {
         const curStat = v.STATS[stat]
         statByFsa[v.FSA] = curStat; // TODO: Type error, fix

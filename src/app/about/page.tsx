@@ -1,5 +1,5 @@
 import '../globals.css';
-import { Section, SectionHeading, SectionSubHeading, SectionContent, Link } from '../utils';
+import { Section, SectionHeading, SectionContent, Link } from '../utils';
 
 export default async function Home() {
 
@@ -50,7 +50,7 @@ export default async function Home() {
                         <li>Motel/Hotel</li>
                         <li>Interim Housing</li>
                         <li>Warming Centre</li>
-                        <li>24-Hour Women's Drop-in</li>
+                        <li>24-Hour Women&apos;s Drop-in</li>
                         <li>Isolation/Recovery Site</li>
                     </ul>
                     <b>Shelter group</b><br/>Named for the lead shelter for which a program belongs to within the SMIS database. The group also includes other programs administered by the lead shelter<br/>

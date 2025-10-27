@@ -35,7 +35,7 @@ const createTooltip = (tooltipId: string) => {
 }
 
 // TODO: fix the type
-const createCircle = (g: any, circleId: string) => {
+const createCircle = (g: d3.Selection<SVGGElement | null, unknown, null, undefined>, circleId: string) => {
     return g.append('circle')
         .attr('id', circleId)
         .attr('r', 0)
@@ -132,7 +132,7 @@ export function MultiLineChart({data, stat, title}: Props) {
         g.append('g')
             .call(d3.axisLeft(yScale))
 
-        const line: any = d3.line()
+        const line: d3.Line<[number, number]> = d3.line()
             .x((d: any) => xScale(d.DATE))
             .y((d: any) => yScale(d.STAT))
             
@@ -183,7 +183,7 @@ export function MultiLineChart({data, stat, title}: Props) {
                 const i = bisectDate(listener.dataPoints, x0, 1);
                 const d0: any = listener.dataPoints[i];
                 const d1: any = listener.dataPoints[i-1];
-                const d: DataPoint = x0 - d0.DATE > d1.DATE - x0 ? d1 : d0;
+                const d: DataPoint = x0 - Number(d0.DATE) > Number(d1.DATE) - x0 ? d1 : d0;
                 const xPos = xScale(d.DATE); 
                 const yPos = yScale(d.STAT);
 
@@ -192,7 +192,7 @@ export function MultiLineChart({data, stat, title}: Props) {
                     .attr('cy', yPos)
                     .transition()
                     .duration(50)
-                    .attr('r', 3)
+                    .attr('r', 3);
 
                 const scroll = window.scrollY
                 const container = document.getElementById(rectId);

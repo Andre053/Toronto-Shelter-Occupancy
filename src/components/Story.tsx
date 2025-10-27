@@ -36,7 +36,7 @@ export default function Story() {
 
         setJsonData('/map/data_by_shelter.json', setShelterData)
 
-    }, [chartDailyUserCount])
+    }, [chartDailyUserCount, mapShelters])
 
 
     return (
@@ -55,7 +55,9 @@ export default function Story() {
 
                     The city-administered shelter system has increased capacity as demand for shelters have grown. 
 
-                    The city views homelessness as "the result of failures across multiple systems, such as housing, health care, mental health, income support, and the justice system" (2024 Street Needs Assessment). Within this context, the shelter system is seen as the last resort for the victims of these failures. 
+                    The city views homelessness as &quot;the result of failures across multiple systems, such as housing, 
+                    health care, mental health, income support, and the justice system&quot; (2024 Street Needs Assessment). 
+                    Within this context, the shelter system is seen as the last resort for the victims of these failures. 
 
                     Toronto operates the largest shelter system in Canada. 
                 </SectionContent>

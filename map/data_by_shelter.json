@@ -1,0 +1,3252 @@
+{
+    "1677 Wilson Ave": {
+        "LOCATION_ID": [
+            1103.0
+        ],
+        "LOCATION_NAME": [
+            "COSTI/City North York West Hotel Program",
+            "SSHA North York West Hotel Program",
+            "TSSS North York West Hotel Program"
+        ],
+        "FSA": [
+            "M3L"
+        ],
+        "PROGRAMS": [
+            "COSTI North York West Hotel - Family Program",
+            "COSTI North York West Hotel - Seniors Program",
+            "COSTI North York West Hotel Program - Men",
+            "COSTI North York West Hotel Program - Mixed Adult",
+            "COSTI North York West Hotel Program - Women",
+            "Birkdale North York West Hotel Program - Family Program",
+            "Birkdale North York West Hotel Program Single Males",
+            "COSTI North York West Hotel Program - Women's Program",
+            "SSHA North York West Hotel Program - Mixed Adult",
+            "SSHA North York West Hotel Program - Couples",
+            "SSHA NYW - North",
+            "SSHA North York West Hotel - North - Mixed Adult",
+            "SSHA North York West Hotel - North - Couples",
+            "SSHA North York West Hotel - South - Couples",
+            "TSSS North York West Hotel - North - Couples",
+            "TSSS North York West Hotel - North - Mixed Adult",
+            "TSSS North York West Hotel - South - Couples",
+            "TSSS North York West Hotel Program - Mixed Adult",
+            "Birkdale Residence - Toronto Plaza Hotel - SOUTH - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "COSTI Immigrant Services",
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 195.45790080738178
+    },
+    "100 Lippincott St": {
+        "LOCATION_ID": [
+            1051.0
+        ],
+        "LOCATION_NAME": [
+            "COSTI Reception Centre"
+        ],
+        "FSA": [
+            "M5S"
+        ],
+        "PROGRAMS": [
+            "COSTI Reception Centre CITY Program",
+            "COSTI Reception Ctr CITY Program - Top Bunk"
+        ],
+        "ORGANIZATIONS": [
+            "COSTI Immigrant Services"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 9.618800461361015
+    },
+    "55 Hallcrown Pl": {
+        "LOCATION_ID": [
+            1114.0
+        ],
+        "LOCATION_NAME": [
+            "COSTI Uptown Hotel Program"
+        ],
+        "FSA": [
+            "M2J"
+        ],
+        "PROGRAMS": [
+            "COSTI Uptown Hotel COVID-19 - Family Program",
+            "COSTI Uptown Hotel Family Program",
+            "COSTI Uptown Hotel - Women's Program",
+            "COSTI Uptown Hotel Program - Women",
+            "COSTI Uptown Hotel Program - Couples",
+            "COSTI Uptown Hotel Program - Refugee Singles"
+        ],
+        "ORGANIZATIONS": [
+            "COSTI Immigrant Services"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 632.4480968858131
+    },
+    "445 Rexdale Blvd": {
+        "LOCATION_ID": [
+            1160.0
+        ],
+        "LOCATION_NAME": [
+            "CONC Etobicoke Hotel Program"
+        ],
+        "FSA": [
+            "M9W"
+        ],
+        "PROGRAMS": [
+            "CONC Etobicoke Hotel Program - Mixed Adult"
+        ],
+        "ORGANIZATIONS": [
+            "Christie Ossington Neighbourhood Centre"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 157.16608996539793
+    },
+    "14 Roncesvalles Ave": {
+        "LOCATION_ID": [
+            1172.0
+        ],
+        "LOCATION_NAME": [
+            "CONC West End Hotel Program"
+        ],
+        "FSA": [
+            "M6R"
+        ],
+        "PROGRAMS": [
+            "CONC Men's Hotel Program"
+        ],
+        "ORGANIZATIONS": [
+            "Christie Ossington Neighbourhood Centre"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 39.61880046136101
+    },
+    "973 Lansdowne Ave": {
+        "LOCATION_ID": [
+            1029.0
+        ],
+        "LOCATION_NAME": [
+            "CONC Men's Shelter Lansdowne Ave"
+        ],
+        "FSA": [
+            "M6H"
+        ],
+        "PROGRAMS": [
+            "Christie Ossington Men's Hostel",
+            "Christie Ossington Men's Hostel - ASP",
+            "Christie Ossington Men's Hostel - Lansdowne - Top Bunk"
+        ],
+        "ORGANIZATIONS": [
+            "Christie Ossington Neighbourhood Centre"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 35.95476477683957
+    },
+    "850 Bloor St W": {
+        "LOCATION_ID": [
+            1102.0
+        ],
+        "LOCATION_NAME": [
+            "CONC Men's Shelter Bloor St W"
+        ],
+        "FSA": [
+            "M6G"
+        ],
+        "PROGRAMS": [
+            "Christie Ossington Men's Hostel South"
+        ],
+        "ORGANIZATIONS": [
+            "Christie Ossington Neighbourhood Centre"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 22.143021914648212
+    },
+    "43 Christie St": {
+        "LOCATION_ID": [
+            1052.0
+        ],
+        "LOCATION_NAME": [
+            "Christie Refugee Welcome Centre"
+        ],
+        "FSA": [
+            "M6G"
+        ],
+        "PROGRAMS": [
+            "Christie Refugee Welcome Centre - Settlement and Support"
+        ],
+        "ORGANIZATIONS": [
+            "Christie Refugee Welcome Centre, Inc."
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 61.221453287197235
+    },
+    "1229 Ellesmere Rd": {
+        "LOCATION_ID": [
+            1070.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Birkdale Residence",
+            "TSSS Birkdale Residence"
+        ],
+        "FSA": [
+            "M1P"
+        ],
+        "PROGRAMS": [
+            "Birkdale Residence - Bedded Program"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 211.29527104959632
+    },
+    "274 Sackville St": {
+        "LOCATION_ID": [
+            1183.0
+        ],
+        "LOCATION_NAME": [
+            "Woodgreen Regent Park Interim Housing 1"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Woodgreen Interim Housing 1 - Mixed Adult Program",
+            "Woodgreen Interim Housing 1 - Family Program"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2021-06-09 00:00:00",
+        "DAYS_ACTIVE": 159,
+        "MEAN_DAILY_SERVICE_USERS": 5.575
+    },
+    "295 Sackville St": {
+        "LOCATION_ID": [
+            1184.0
+        ],
+        "LOCATION_NAME": [
+            "Woodgreen Regent Park Interim Housing 2"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Woodgreen Interim Housing 2 - Mixed Adult Program",
+            "Woodgreen Interim Housing 2 - Family Program"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2021-06-09 00:00:00",
+        "DAYS_ACTIVE": 159,
+        "MEAN_DAILY_SERVICE_USERS": 3.525
+    },
+    "325 Gerrard St E": {
+        "LOCATION_ID": [
+            1185.0
+        ],
+        "LOCATION_NAME": [
+            "Woodgreen Regent Park Interim Housing 3"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Woodgreen Interim Housing 3 - Mixed Adult Program",
+            "Woodgreen Interim Housing 3 - Family Program"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2021-06-09 00:00:00",
+        "DAYS_ACTIVE": 159,
+        "MEAN_DAILY_SERVICE_USERS": 9.0625
+    },
+    "355 Gerrard St E": {
+        "LOCATION_ID": [
+            1186.0
+        ],
+        "LOCATION_NAME": [
+            "Woodgreen Regent Park Interim Housing 4"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Woodgreen Interim Housing 4 - Family Program",
+            "Woodgreen Interim Housing 4 - Mixed Adult Program"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2021-01-24 00:00:00",
+        "DAYS_ACTIVE": 23,
+        "MEAN_DAILY_SERVICE_USERS": 11.0
+    },
+    "1651 Sheppard Ave W": {
+        "LOCATION_ID": [
+            1009.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Downsview Dells",
+            "TSSS Downsview Dells"
+        ],
+        "FSA": [
+            "M3M"
+        ],
+        "PROGRAMS": [
+            "Downsview Dells Bedded Program",
+            "Downsview Dells - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 14.203016241299304
+    },
+    "808 Mt Pleasant Rd": {
+        "LOCATION_ID": [
+            1181.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Roehampton Hotel Program"
+        ],
+        "FSA": [
+            "M4P"
+        ],
+        "PROGRAMS": [
+            "Roehampton Residence"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2023-08-10 00:00:00",
+        "DAYS_ACTIVE": 951,
+        "MEAN_DAILY_SERVICE_USERS": 127.83193277310924
+    },
+    "2685 Kingston Rd": {
+        "LOCATION_ID": [
+            1182.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Scarborough Response Program"
+        ],
+        "FSA": [
+            "M1M"
+        ],
+        "PROGRAMS": [
+            "Scarborough Women's Shelter Response Program"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2021-05-17 00:00:00",
+        "DAYS_ACTIVE": 136,
+        "MEAN_DAILY_SERVICE_USERS": 59.846715328467155
+    },
+    "4222 Kingston Rd": {
+        "LOCATION_ID": [
+            1065.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Family Residence",
+            "TSSS Family Residence"
+        ],
+        "FSA": [
+            "M1E"
+        ],
+        "PROGRAMS": [
+            "Family Residence - Main Program",
+            "Family Residence - Main Site - Winter Program"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 142.81891580161476
+    },
+    "4674 Kingston Rd": {
+        "LOCATION_ID": [
+            1066.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Scarborough Hotel Program 3",
+            "TSSS Scarborough Hotel Program 3",
+            "Kingston Residence SWS"
+        ],
+        "FSA": [
+            "M1E"
+        ],
+        "PROGRAMS": [
+            "SSHA Scarborough Hotel 3 - Family Program",
+            "SSHA Scarborough Hotel 3 - Mixed Adult Winter Program",
+            "TSSS Scarborough Hotel 3 - Family Program",
+            "Kingston Residence SWS-Family Program"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 114.06516724336794
+    },
+    "4540 Kingston Rd": {
+        "LOCATION_ID": [
+            1067.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Scarborough Hotel Program 4",
+            "TSSS Scarborough Hotel Program 4"
+        ],
+        "FSA": [
+            "M1E"
+        ],
+        "PROGRAMS": [
+            "SSHA Scarborough Hotel 4 - Family Program",
+            "TSSS Scarborough Hotel 4 - Family Program"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-03-30 00:00:00",
+        "DAYS_ACTIVE": 1549,
+        "MEAN_DAILY_SERVICE_USERS": 46.44064516129032
+    },
+    "38 Bathurst St": {
+        "LOCATION_ID": [
+            1011.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Fort York Residence",
+            "TSSS Fort York Residence"
+        ],
+        "FSA": [
+            "M5V"
+        ],
+        "PROGRAMS": [
+            "Fort York Residence Bedded Program",
+            "Fort York SRO Units Program",
+            "Fort York Extreme Weather Program",
+            "Fort York Residence - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 87.12514417531719
+    },
+    "3600 Steeles Ave W": {
+        "LOCATION_ID": [
+            1123.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA North Hotel Program",
+            "TSSS North Hotel Program"
+        ],
+        "FSA": [
+            "L4L"
+        ],
+        "PROGRAMS": [
+            "Fort York Residence North Hotel Program"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 64.14936562860439
+    },
+    "291 Sherbourne St": {
+        "LOCATION_ID": [
+            1069.0
+        ],
+        "LOCATION_NAME": [
+            "Robertson House"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Robertson House - Main Program"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 85.05940023068051
+    },
+    "4584 Kingston Rd": {
+        "LOCATION_ID": [
+            1155.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Scarborough Hotel Program 1",
+            "Eva's Satellite Scarborough Hotel Program",
+            "Scarborough Hotel Program 1"
+        ],
+        "FSA": [
+            "M1E"
+        ],
+        "PROGRAMS": [
+            "SSHA Scarborough Hotel 1 - Mixed Adult Program",
+            "Eva's Satellite - Kingston Road",
+            "Warden Woods - Kingston Road Shelter"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto",
+            "Eva's Initiatives",
+            "Warden Woods Community Centre"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 43.81763647270546
+    },
+    "3306 Kingston Rd": {
+        "LOCATION_ID": [
+            1151.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Scarborough Village Residence",
+            "TSSS Scarborough Village Residence"
+        ],
+        "FSA": [
+            "M1M"
+        ],
+        "PROGRAMS": [
+            "Scarborough Village Residence Main Program",
+            "Scarborough Warming Centre - Scarborough CC",
+            "Scarborough Village Residence - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 86.76124567474048
+    },
+    "731 Runnymede Rd": {
+        "LOCATION_ID": [
+            1154.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Junction Place",
+            "TSSS Junction Place"
+        ],
+        "FSA": [
+            "M6N"
+        ],
+        "PROGRAMS": [
+            "Junction Place",
+            "Junction Place - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 57.31660899653979
+    },
+    "339 George St": {
+        "LOCATION_ID": [
+            1008.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Seaton House",
+            "TSSS Seaton House"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Seaton House - Annex Harm Reduction & Managed Alcohol Program",
+            "Seaton House - Fourth Floor Program",
+            "Seaton House - Hostel Program",
+            "Seaton House - Infirmary Bedded Program",
+            "Seaton House - O'Neill Harm Reduction Program",
+            "Seaton House - Extended Hostel Program",
+            "Seaton House Winter Program",
+            "Seaton House - Winter Program - O'Neill",
+            "Seaton House - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 230.80507497116494
+    },
+    "129 Peter St": {
+        "LOCATION_ID": [
+            1004.0
+        ],
+        "LOCATION_NAME": [
+            "Streets to Homes Assessment and Referral Centre (SHARC)"
+        ],
+        "FSA": [
+            "M5V"
+        ],
+        "PROGRAMS": [
+            "Streets to Homes Bedded Program",
+            "Streets to Homes - 129 Peter Street - Warming Centre"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 26.794117647058822
+    },
+    "77 Ryerson Ave": {
+        "LOCATION_ID": [
+            1124.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Downtown Hotel Program",
+            "TSSS Downtown Hotel Program"
+        ],
+        "FSA": [
+            "M5T"
+        ],
+        "PROGRAMS": [
+            "SSHA Downtown Hotel Women's Program",
+            "TSSS Downtown Hotel Women's Program"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 67.81718569780854
+    },
+    "674 Dundas St W": {
+        "LOCATION_ID": [
+            1005.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Womens' Residence",
+            "TSSS Womens' Residence"
+        ],
+        "FSA": [
+            "M5H"
+        ],
+        "PROGRAMS": [
+            "Women's Residence Extreme Weather Program",
+            "Womens' Residence - Main Program",
+            "Women's Residence - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 79.2520184544406
+    },
+    "63 Bellwoods Ave": {
+        "LOCATION_ID": [
+            1006.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Bellwoods House"
+        ],
+        "FSA": [
+            "M6J"
+        ],
+        "PROGRAMS": [
+            "Womens' Residence - Bellwoods House"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2021-07-15 00:00:00",
+        "DAYS_ACTIVE": 195,
+        "MEAN_DAILY_SERVICE_USERS": 6.285714285714286
+    },
+    "616 Vaughan Rd": {
+        "LOCATION_ID": [
+            1028.0
+        ],
+        "LOCATION_NAME": [
+            "Cornerstone Place"
+        ],
+        "FSA": [
+            "M6C"
+        ],
+        "PROGRAMS": [
+            "Cornerstone Place"
+        ],
+        "ORGANIZATIONS": [
+            "Cornerstone Place"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 24.919261822376008
+    },
+    "222 Spadina Ave": {
+        "LOCATION_ID": [
+            1169.0
+        ],
+        "LOCATION_NAME": [
+            "Youth Agencies Downtown Hotel Program"
+        ],
+        "FSA": [
+            "M5T"
+        ],
+        "PROGRAMS": [
+            "Covenant House - Hotel Program",
+            "Native Child Youth Hotel Program",
+            "YMCA Youth Hotel Program"
+        ],
+        "ORGANIZATIONS": [
+            "Covenant House Toronto",
+            "Native Child & Family Services Toronto",
+            "YMCA of Greater Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2021-05-31 00:00:00",
+        "DAYS_ACTIVE": 150,
+        "MEAN_DAILY_SERVICE_USERS": 77.06622516556291
+    },
+    "20 Gerrard St E": {
+        "LOCATION_ID": [
+            1026.0
+        ],
+        "LOCATION_NAME": [
+            "Covenant House Gerrard St E"
+        ],
+        "FSA": [
+            "M5B"
+        ],
+        "PROGRAMS": [
+            "Covenant House Residence",
+            "Covenant House -  Transitional Safe Beds for women",
+            "Covenant House Residence - Winter Respite",
+            "Covenant House Residence - Refugee Youths",
+            "Covenant House Residence - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "Covenant House Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 80.18281430219146
+    },
+    "21 McGill St": {
+        "LOCATION_ID": [
+            1027.0
+        ],
+        "LOCATION_NAME": [
+            "Covenant House McGill St"
+        ],
+        "FSA": [
+            "M5B"
+        ],
+        "PROGRAMS": [
+            "Covenant House Rights of Passage"
+        ],
+        "ORGANIZATIONS": [
+            "Covenant House Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 27.393310265282583
+    },
+    "351 Lake Shore Blvd E": {
+        "LOCATION_ID": [
+            1149.0
+        ],
+        "LOCATION_NAME": [
+            "Dixon Hall 351 Lake Shore Blvd E Respite"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Dixon Hall 351 Lake Shore Blvd E. Respite"
+        ],
+        "ORGANIZATIONS": [
+            "Dixon Hall"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 60.71510957324106
+    },
+    "354 George St": {
+        "LOCATION_ID": [
+            1157.0,
+            1128.0
+        ],
+        "LOCATION_NAME": [
+            "354 George Street",
+            "Dixon Hall 354 George St"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Dixon Hall - 354 George"
+        ],
+        "ORGANIZATIONS": [
+            "Dixon Hall"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 48.520184544406
+    },
+    "65 Dundas St E": {
+        "LOCATION_ID": [
+            1176.0
+        ],
+        "LOCATION_NAME": [
+            "Dixon Hall Bond Place Hotel Program"
+        ],
+        "FSA": [
+            "M5B"
+        ],
+        "PROGRAMS": [
+            "Dixon Hall - Bond Place Hotel Program"
+        ],
+        "ORGANIZATIONS": [
+            "Dixon Hall"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2024-07-17 00:00:00",
+        "DAYS_ACTIVE": 1293,
+        "MEAN_DAILY_SERVICE_USERS": 164.31684698608964
+    },
+    "2714 Danforth Ave": {
+        "LOCATION_ID": [
+            1015.0
+        ],
+        "LOCATION_NAME": [
+            "Dixon Hall Heyworth House"
+        ],
+        "FSA": [
+            "M4C"
+        ],
+        "PROGRAMS": [
+            "Dixon Hall - Heyworth House",
+            "Dixon Hall - Heyworth House - Top Bunk"
+        ],
+        "ORGANIZATIONS": [
+            "Dixon Hall"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 51.437139561707035
+    },
+    "60 York St": {
+        "LOCATION_ID": [
+            1167.0
+        ],
+        "LOCATION_NAME": [
+            "HFS Downtown Hotel Program",
+            "Downtown Hotel Program - York"
+        ],
+        "FSA": [
+            "M5J"
+        ],
+        "PROGRAMS": [
+            "Dixon Hall Downtown Hotel - Mixed Adult Program",
+            "Homes First Society Downtown Hotel - Mixed Adult Program",
+            "Covenant House - York St",
+            "Eva's Satellite - York Street",
+            "YMCA - York St."
+        ],
+        "ORGANIZATIONS": [
+            "Dixon Hall",
+            "Homes First Society",
+            "Covenant House Toronto",
+            "Eva's Initiatives",
+            "YMCA of Greater Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2023-08-27 00:00:00",
+        "DAYS_ACTIVE": 968,
+        "MEAN_DAILY_SERVICE_USERS": 182.66150670794633
+    },
+    "56 Yonge St": {
+        "LOCATION_ID": [
+            1177.0
+        ],
+        "LOCATION_NAME": [
+            "Dixon Hall Downtown Hotel"
+        ],
+        "FSA": [
+            "M5E"
+        ],
+        "PROGRAMS": [
+            "Dixon Hall Downtown Hotel Program - Mixed Adult"
+        ],
+        "ORGANIZATIONS": [
+            "Dixon Hall"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2023-02-23 00:00:00",
+        "DAYS_ACTIVE": 783,
+        "MEAN_DAILY_SERVICE_USERS": 50.52168367346939
+    },
+    "349 George St": {
+        "LOCATION_ID": [
+            1020.0
+        ],
+        "LOCATION_NAME": [
+            "Dixon Hall Schoolhouse"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Dixon Hall - Schoolhouse",
+            "Dixon Hall - School TOP BUNK"
+        ],
+        "ORGANIZATIONS": [
+            "Dixon Hall"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 25.74567474048443
+    },
+    "60 Brant St": {
+        "LOCATION_ID": [
+            1025.0
+        ],
+        "LOCATION_NAME": [
+            "Eva's Phoenix"
+        ],
+        "FSA": [
+            "M5V"
+        ],
+        "PROGRAMS": [
+            "Eva's Phoenix"
+        ],
+        "ORGANIZATIONS": [
+            "Eva's Initiatives"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 47.32122260668974
+    },
+    "2035 Kennedy Rd": {
+        "LOCATION_ID": [
+            1174.0,
+            1179.0,
+            1173.0
+        ],
+        "LOCATION_NAME": [
+            "Multiple Youth & Adult Agencies Scarborough Hotel Program"
+        ],
+        "FSA": [
+            "M1T"
+        ],
+        "PROGRAMS": [
+            "Eva's Initiatives Hotel Program",
+            "HFS Scarborough Hotel Program - Mixed Adult",
+            "Kennedy House Hotel Program"
+        ],
+        "ORGANIZATIONS": [
+            "Eva's Initiatives",
+            "Homes First Society",
+            "Kennedy House Youth Services"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 319.99250288350635
+    },
+    "360 Lesmill Rd": {
+        "LOCATION_ID": [
+            1024.0
+        ],
+        "LOCATION_NAME": [
+            "Eva's Place"
+        ],
+        "FSA": [
+            "M3B"
+        ],
+        "PROGRAMS": [
+            "Eva's Place",
+            "Eva's Place - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "Eva's Initiatives"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 28.343599033816425
+    },
+    "25 Canterbury Pl": {
+        "LOCATION_ID": [
+            1023.0
+        ],
+        "LOCATION_NAME": [
+            "Eva's Satellite"
+        ],
+        "FSA": [
+            "M3N"
+        ],
+        "PROGRAMS": [
+            "Eva's Satellite",
+            "Eva's Satellite - Canterbury Place"
+        ],
+        "ORGANIZATIONS": [
+            "Eva's Initiatives"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 20.210953346855984
+    },
+    "70 Denison Ave": {
+        "LOCATION_ID": [
+            1053.0
+        ],
+        "LOCATION_NAME": [
+            "Fife House Denison Ave"
+        ],
+        "FSA": [
+            "M5T"
+        ],
+        "PROGRAMS": [
+            "Fife House Denison Program"
+        ],
+        "ORGANIZATIONS": [
+            "Fife House Foundation"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 4.570357554786621
+    },
+    "490 Sherbourne St": {
+        "LOCATION_ID": [
+            1054.0
+        ],
+        "LOCATION_NAME": [
+            "Fife House Sherbourne St"
+        ],
+        "FSA": [
+            "M4X"
+        ],
+        "PROGRAMS": [
+            "Fife-Sherbourne Transitional Program"
+        ],
+        "ORGANIZATIONS": [
+            "Fife House Foundation"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 9.310841983852365
+    },
+    "386 Dundas St E": {
+        "LOCATION_ID": [
+            1099.0
+        ],
+        "LOCATION_NAME": [
+            "Fred Victor Centre Transition to Housing Dundas St E"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Fred Victor T2H Bedded Program"
+        ],
+        "ORGANIZATIONS": [
+            "Fred Victor Centre"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 35.595732410611305
+    },
+    "512 Jarvis St": {
+        "LOCATION_ID": [
+            1081.0
+        ],
+        "LOCATION_NAME": [
+            "Fred Victor Mary Sheffield House"
+        ],
+        "FSA": [
+            "M4Y"
+        ],
+        "PROGRAMS": [
+            "Fred Victor Transition to Housing Bedded Program"
+        ],
+        "ORGANIZATIONS": [
+            "Fred Victor Centre"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 23.490772779700116
+    },
+    "185 Yorkland Blvd": {
+        "LOCATION_ID": [
+            1130.0
+        ],
+        "LOCATION_NAME": [
+            "Fred Victor Uptown Hotel Program"
+        ],
+        "FSA": [
+            "M2J"
+        ],
+        "PROGRAMS": [
+            "Fred Victor Centre Women's Hostel Hotel Program",
+            "Fred Victor Uptown Hotel Program"
+        ],
+        "ORGANIZATIONS": [
+            "Fred Victor Centre"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 278.8933102652826
+    },
+    "1161 Caledonia Rd": {
+        "LOCATION_ID": [
+            1055.0
+        ],
+        "LOCATION_NAME": [
+            "Fred Victor Centre Bethlehem United Shelter"
+        ],
+        "FSA": [
+            "M6A"
+        ],
+        "PROGRAMS": [
+            "Fred Victor Bethlehem United Program"
+        ],
+        "ORGANIZATIONS": [
+            "Fred Victor Centre"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 60.337946943483274
+    },
+    "1A Strachan Ave": {
+        "LOCATION_ID": [
+            1152.0
+        ],
+        "LOCATION_NAME": [
+            "Fred Victor Centre 1A Strachan Ave Respite"
+        ],
+        "FSA": [
+            "M6K"
+        ],
+        "PROGRAMS": [
+            "Fred Victor 1A Strachan Ave Respite"
+        ],
+        "ORGANIZATIONS": [
+            "Fred Victor Centre"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 55.74279123414072
+    },
+    "257 Dundas St E": {
+        "LOCATION_ID": [
+            1187.0
+        ],
+        "LOCATION_NAME": [
+            "Friends of Ruby  "
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Friends of Ruby - Transitional Housing",
+            "Friends of Ruby - Emergency Housing"
+        ],
+        "ORGANIZATIONS": [
+            "Friends of Ruby"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2023-12-31 00:00:00",
+        "DAYS_ACTIVE": 1094,
+        "MEAN_DAILY_SERVICE_USERS": 27.264840182648403
+    },
+    "412 Queen St E": {
+        "LOCATION_ID": [
+            1022.0
+        ],
+        "LOCATION_NAME": [
+            "Good Shepherd Centre"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Good Shepherd - D.A.R.E.",
+            "Good Shepherd - Emergency/Resettlement",
+            "Good Shepherd Centre - Top Bunk"
+        ],
+        "ORGANIZATIONS": [
+            "Good Shepherd Ministries"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 58.035755478662054
+    },
+    "35 Sydenham St": {
+        "LOCATION_ID": [
+            1021.0
+        ],
+        "LOCATION_NAME": [
+            "Good Shepherd Centre Barrett House"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Good Shepherd Barrett House - Men's Program"
+        ],
+        "ORGANIZATIONS": [
+            "Good Shepherd Ministries"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 4.833910034602076
+    },
+    "335 Jarvis St": {
+        "LOCATION_ID": [
+            1168.0
+        ],
+        "LOCATION_NAME": [
+            "Good Shepherd Centre West End Hotel Program"
+        ],
+        "FSA": [
+            "M5B"
+        ],
+        "PROGRAMS": [
+            "Good Shepherd Centre West End Hotel - Men's Program"
+        ],
+        "ORGANIZATIONS": [
+            "Good Shepherd Ministries"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 46.01845444059977
+    },
+    "702 Kennedy Rd": {
+        "LOCATION_ID": [
+            1108.0
+        ],
+        "LOCATION_NAME": [
+            "HFS Kennedy Rd Women's Shelter"
+        ],
+        "FSA": [
+            "M1K"
+        ],
+        "PROGRAMS": [
+            "Homes First Society- Kennedy Shelter Women's Program"
+        ],
+        "ORGANIZATIONS": [
+            "Homes First Society"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 51.63956170703575
+    },
+    "545 Lake Shore Blvd W": {
+        "LOCATION_ID": [
+            1150.0
+        ],
+        "LOCATION_NAME": [
+            "HFS 545 Lake Shore Blvd W Shelter"
+        ],
+        "FSA": [
+            "M5V"
+        ],
+        "PROGRAMS": [
+            "545 Lake Shore Blvd W. Couples",
+            "545 Lake Shore Blvd W. Men",
+            "545 Lake Shore Blvd W. Men Lower Level",
+            "545 Lake Shore Blvd W. Women",
+            "545 Lakeshore Blvd W. Men Respite Program Lower Level",
+            "545 Lakeshore Blvd W. Men - Lower Level"
+        ],
+        "ORGANIZATIONS": [
+            "Homes First Society"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 198.66782006920414
+    },
+    "195 Princes' Blvd": {
+        "LOCATION_ID": [
+            1125.0
+        ],
+        "LOCATION_NAME": [
+            "HFS 195 Princes' Blvd "
+        ],
+        "FSA": [
+            "M6K"
+        ],
+        "PROGRAMS": [
+            "Homes First Society - Better Living Centre - Winter Program",
+            "Homes First Society - Better Living Centre - Warming Centre",
+            "Fred Victor Warming Centre - Metro Hall",
+            "Dixon Hall Winter Respite - BLC",
+            "Fred Victor Winter Respite - BLC",
+            "Fred Victor Winter Respite - BLC - TTC Surge Site",
+            "Dixon Hall Winter Respite - BLC - TTC Surge Site"
+        ],
+        "ORGANIZATIONS": [
+            "Homes First Society",
+            "Fred Victor Centre",
+            "Dixon Hall"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-04-06 00:00:00",
+        "DAYS_ACTIVE": 1556,
+        "MEAN_DAILY_SERVICE_USERS": 174.1
+    },
+    "3576 St Clair Ave E": {
+        "LOCATION_ID": [
+            1031.0
+        ],
+        "LOCATION_NAME": [
+            "HFS St. Clair Ave E Shelter"
+        ],
+        "FSA": [
+            "M1K"
+        ],
+        "PROGRAMS": [
+            "Homes First Society - Scarborough Shelter"
+        ],
+        "ORGANIZATIONS": [
+            "Homes First Society"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 43.19550173010381
+    },
+    "5800 Yonge St ": {
+        "LOCATION_ID": [
+            1153.0
+        ],
+        "LOCATION_NAME": [
+            "HFS Willowdale Centre"
+        ],
+        "FSA": [
+            "M2M"
+        ],
+        "PROGRAMS": [
+            "Homes First Society - Willowdale Centre - Men",
+            "Homes First Society - Willowdale Centre - Women",
+            "Homes First Society - 5800 Yonge Street - Warming Centre",
+            "Homes First Society - 5800 Yonge St. Building B - Men"
+        ],
+        "ORGANIZATIONS": [
+            "Homes First Society"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2021-12-31 00:00:00",
+        "DAYS_ACTIVE": 364,
+        "MEAN_DAILY_SERVICE_USERS": 124.33698630136986
+    },
+    "805A Wellington St W": {
+        "LOCATION_ID": [
+            1033.0
+        ],
+        "LOCATION_NAME": [
+            "HFS Strachan House"
+        ],
+        "FSA": [
+            "M5V"
+        ],
+        "PROGRAMS": [
+            "Homes First Society - Flex Program",
+            "Homes First Society - Strachan House"
+        ],
+        "ORGANIZATIONS": [
+            "Homes First Society"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2022-01-21 00:00:00",
+        "DAYS_ACTIVE": 385,
+        "MEAN_DAILY_SERVICE_USERS": 73.67875647668394
+    },
+    "422 Gilbert Ave": {
+        "LOCATION_ID": [
+            1019.0
+        ],
+        "LOCATION_NAME": [
+            "Horizons for Youth"
+        ],
+        "FSA": [
+            "M6E"
+        ],
+        "PROGRAMS": [
+            "Horizons for Youth"
+        ],
+        "ORGANIZATIONS": [
+            "Horizon for Youth"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 31.347750865051903
+    },
+    "1076 Pape Ave": {
+        "LOCATION_ID": [
+            1080.0
+        ],
+        "LOCATION_NAME": [
+            "Kennedy House Youth Shelter"
+        ],
+        "FSA": [
+            "M4K"
+        ],
+        "PROGRAMS": [
+            "Kennedy House Youth Shelter Bedded Program",
+            "Kennedy House Youth Shelter - Top Bunk"
+        ],
+        "ORGANIZATIONS": [
+            "Kennedy House Youth Services"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 20.41522491349481
+    },
+    "21 Park Rd": {
+        "LOCATION_ID": [
+            1118.0
+        ],
+        "LOCATION_NAME": [
+            "Margaret's 21 Park Rd Respite "
+        ],
+        "FSA": [
+            "M4W"
+        ],
+        "PROGRAMS": [
+            "Margaret's 21 Park Rd. Respite",
+            "Margaret's 21 Park Rd. Respite - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "Margaret's Housing and Community Support Services"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 28.655709342560552
+    },
+    "14 Vaughan Rd": {
+        "LOCATION_ID": [
+            1002.0
+        ],
+        "LOCATION_NAME": [
+            "Na-Me-Res"
+        ],
+        "FSA": [
+            "M6G"
+        ],
+        "PROGRAMS": [
+            "Na-Me-Res (Native Men's Residence)",
+            "Na-Me-Res (Native Men's Residence) - Top Bunk"
+        ],
+        "ORGANIZATIONS": [
+            "Na-Me-Res (Native Men's Residence)"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 49.17704728950404
+    },
+    "26 Vaughan Rd": {
+        "LOCATION_ID": [
+            1013.0
+        ],
+        "LOCATION_NAME": [
+            "Sagatay "
+        ],
+        "FSA": [
+            "M6G"
+        ],
+        "PROGRAMS": [
+            "Sagatay"
+        ],
+        "ORGANIZATIONS": [
+            "Na-Me-Res (Native Men's Residence)"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 14.98154555940023
+    },
+    "558 Bathurst St": {
+        "LOCATION_ID": [
+            1018.0
+        ],
+        "LOCATION_NAME": [
+            "Native Child & Family Services Toronto"
+        ],
+        "FSA": [
+            "M5S"
+        ],
+        "PROGRAMS": [
+            "Native Child & Family Services Toronto"
+        ],
+        "ORGANIZATIONS": [
+            "Native Child & Family Services Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 8.317185697808535
+    },
+    "126 Pape Ave": {
+        "LOCATION_ID": [
+            1050.0
+        ],
+        "LOCATION_NAME": [
+            "SVDP Amelie House"
+        ],
+        "FSA": [
+            "M4M"
+        ],
+        "PROGRAMS": [
+            "St.Vincent De Paul - Amelie House - Women's Shelter"
+        ],
+        "ORGANIZATIONS": [
+            "Society of St.Vincent De Paul"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 18.629181084198386
+    },
+    "60 Newcastle St": {
+        "LOCATION_ID": [
+            1049.0
+        ],
+        "LOCATION_NAME": [
+            "SVDP Elisa House"
+        ],
+        "FSA": [
+            "M8Y"
+        ],
+        "PROGRAMS": [
+            "St.Vincent De Paul - Elisa House",
+            "Society of Saint Vincent de Paul - Elisa House - Top Bunk"
+        ],
+        "ORGANIZATIONS": [
+            "Society of St.Vincent De Paul"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 28.397923875432525
+    },
+    "70 Gerrard St E": {
+        "LOCATION_ID": [
+            1048.0
+        ],
+        "LOCATION_NAME": [
+            "SVDP Mary's Home"
+        ],
+        "FSA": [
+            "M5B"
+        ],
+        "PROGRAMS": [
+            "St.Vincent De Paul - Mary's Home - Emergency Shelter",
+            "Society of Saint Vincent de Paul - Mary's Home - Top Bunk",
+            "Society of Saint Vincent de Paul - Mary's Home - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "Society of St.Vincent De Paul"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 31.548442906574394
+    },
+    "3410 Bayview Ave": {
+        "LOCATION_ID": [
+            1039.0
+        ],
+        "LOCATION_NAME": [
+            "SVDP St. Clare's Residence"
+        ],
+        "FSA": [
+            "M2M"
+        ],
+        "PROGRAMS": [
+            "St.Vincent De Paul - St. Clare's Residence - Transitional Housing"
+        ],
+        "ORGANIZATIONS": [
+            "Society of St.Vincent De Paul"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 27.59919261822376
+    },
+    "25 Augusta Ave": {
+        "LOCATION_ID": [
+            1105.0
+        ],
+        "LOCATION_NAME": [
+            "St. Felix Centre 25 Augusta Ave. Respite "
+        ],
+        "FSA": [
+            "M5T"
+        ],
+        "PROGRAMS": [
+            "St. Felix Centre 25 Augusta Ave. Respite"
+        ],
+        "ORGANIZATIONS": [
+            "St. Felix Social Ministries Outreach"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2023-08-01 00:00:00",
+        "DAYS_ACTIVE": 942,
+        "MEAN_DAILY_SERVICE_USERS": 18.953340402969246
+    },
+    "69 Fraser Ave": {
+        "LOCATION_ID": [
+            1148.0
+        ],
+        "LOCATION_NAME": [
+            "St. Felix Centre 69 Fraser Ave. Respite "
+        ],
+        "FSA": [
+            "M6K"
+        ],
+        "PROGRAMS": [
+            "St. Felix Centre 69 Fraser Respite"
+        ],
+        "ORGANIZATIONS": [
+            "St. Felix Social Ministries Outreach"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 56.25663206459054
+    },
+    "98 The Esplanade": {
+        "LOCATION_ID": [
+            1178.0
+        ],
+        "LOCATION_NAME": [
+            "St. Felix Centre Esplanade Response Program"
+        ],
+        "FSA": [
+            "M5E"
+        ],
+        "PROGRAMS": [
+            "St. Felix Respite - Esplanade Program"
+        ],
+        "ORGANIZATIONS": [
+            "St. Felix Social Ministries Outreach"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2021-03-18 00:00:00",
+        "DAYS_ACTIVE": 76,
+        "MEAN_DAILY_SERVICE_USERS": 26.948051948051948
+    },
+    "525 Bloor St E": {
+        "LOCATION_ID": [
+            1038.0
+        ],
+        "LOCATION_NAME": [
+            "St.Simon's Shelter"
+        ],
+        "FSA": [
+            "M4W"
+        ],
+        "PROGRAMS": [
+            "St. Simon's Shelter"
+        ],
+        "ORGANIZATIONS": [
+            "St. Simon's Shelter Inc."
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2021-05-05 00:00:00",
+        "DAYS_ACTIVE": 124,
+        "MEAN_DAILY_SERVICE_USERS": 16.479338842975206
+    },
+    "87 Pembroke St": {
+        "LOCATION_ID": [
+            1045.0
+        ],
+        "LOCATION_NAME": [
+            "Street Haven"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Street Haven - Emergency Hostel"
+        ],
+        "ORGANIZATIONS": [
+            "Street Haven At The Crossroads"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 27.719146482122262
+    },
+    "26 Gerrard St E": {
+        "LOCATION_ID": [
+            1180.0
+        ],
+        "LOCATION_NAME": [
+            "Street Haven Downtown Hotel Program"
+        ],
+        "FSA": [
+            "M5B"
+        ],
+        "PROGRAMS": [
+            "Street Haven Hotel Program"
+        ],
+        "ORGANIZATIONS": [
+            "Street Haven At The Crossroads"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 46.72087658592849
+    },
+    "165 Grange Ave": {
+        "LOCATION_ID": [
+            1132.0
+        ],
+        "LOCATION_NAME": [
+            "Sojourn House Hotel Program"
+        ],
+        "FSA": [
+            "M5T"
+        ],
+        "PROGRAMS": [
+            "Sojourn House - Refugee Family Hotel Program"
+        ],
+        "ORGANIZATIONS": [
+            "The MUC Shelter Corporation"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 216.01672433679354
+    },
+    "101 Ontario St": {
+        "LOCATION_ID": [
+            1059.0
+        ],
+        "LOCATION_NAME": [
+            "Sojourn House Ontario St"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Sojourn House Bedded Program",
+            "Sojourn House Transitional Housing Program"
+        ],
+        "ORGANIZATIONS": [
+            "The MUC Shelter Corporation"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 149.96597462514418
+    },
+    "2808 Dundas St W": {
+        "LOCATION_ID": [
+            1036.0
+        ],
+        "LOCATION_NAME": [
+            "SA Evangeline Residence"
+        ],
+        "FSA": [
+            "M6P"
+        ],
+        "PROGRAMS": [
+            "Salvation Army - Evangeline Residence - Women's Ministry"
+        ],
+        "ORGANIZATIONS": [
+            "The Salvation Army of Canada"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 68.57381776239907
+    },
+    "30 Norfinch Dr": {
+        "LOCATION_ID": [
+            1175.0
+        ],
+        "LOCATION_NAME": [
+            "SA North Hotel Program"
+        ],
+        "FSA": [
+            "M3N"
+        ],
+        "PROGRAMS": [
+            "Salvation Army Florence Booth Hotel Program",
+            "Salvation Army New Hope Hotel Program"
+        ],
+        "ORGANIZATIONS": [
+            "The Salvation Army of Canada"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2022-12-29 00:00:00",
+        "DAYS_ACTIVE": 727,
+        "MEAN_DAILY_SERVICE_USERS": 145.5686813186813
+    },
+    "107 Jarvis St": {
+        "LOCATION_ID": [
+            1037.0
+        ],
+        "LOCATION_NAME": [
+            "SA Gateway"
+        ],
+        "FSA": [
+            "M5C"
+        ],
+        "PROGRAMS": [
+            "Salvation Army - Gateway - Men's Hostel"
+        ],
+        "ORGANIZATIONS": [
+            "The Salvation Army of Canada"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 65.69838523644752
+    },
+    "50 Estate Dr": {
+        "LOCATION_ID": [
+            1166.0
+        ],
+        "LOCATION_NAME": [
+            "SA Scarborough Hotel Program"
+        ],
+        "FSA": [
+            "M1H"
+        ],
+        "PROGRAMS": [
+            "SA Scarborough Hotel - Men's Program"
+        ],
+        "ORGANIZATIONS": [
+            "The Salvation Army of Canada"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 129.41580161476355
+    },
+    "135 Sherbourne St": {
+        "LOCATION_ID": [
+            1057.0
+        ],
+        "LOCATION_NAME": [
+            "Maxwell Meighen Centre"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "Salvation Army - Maxwell Meighen - Men's Hostel",
+            "Salvation Army - Maxwell Meighen Primary Support Unit",
+            "Salvation Army Maxwell Meighen Transition to Housing"
+        ],
+        "ORGANIZATIONS": [
+            "The Salvation Army of Canada"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 235.8073817762399
+    },
+    "29A Leslie St": {
+        "LOCATION_ID": [
+            1126.0
+        ],
+        "LOCATION_NAME": [
+            "SA New Hope Leslieville"
+        ],
+        "FSA": [
+            "M4M"
+        ],
+        "PROGRAMS": [
+            "Salvation Army - New Hope - Men's Hostel"
+        ],
+        "ORGANIZATIONS": [
+            "The Salvation Army of Canada"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 42.24336793540946
+    },
+    "2671 Islington Ave": {
+        "LOCATION_ID": [
+            1146.0
+        ],
+        "LOCATION_NAME": [
+            "SA Islington Seniors' Shelter"
+        ],
+        "FSA": [
+            "M9V"
+        ],
+        "PROGRAMS": [
+            "Salvation Army - Islington Seniors' Shelter Men's Program",
+            "Salvation Army - Islington Seniors' Shelter Women's Program",
+            "Salvation Army - Islington Seniors' Shelter Women's Program - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "The Salvation Army of Canada"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 69.26124567474048
+    },
+    "502 Spadina Ave": {
+        "LOCATION_ID": [
+            1014.0
+        ],
+        "LOCATION_NAME": [
+            "Scott Mission"
+        ],
+        "FSA": [
+            "M5S"
+        ],
+        "PROGRAMS": [
+            "Scott Mission - Men's Ministry Overnight Program",
+            "Scott Mission - Winter Respite",
+            "Scott Mission - Respite"
+        ],
+        "ORGANIZATIONS": [
+            "The Scott Mission Inc."
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 48.333333333333336
+    },
+    "191 Spadina Rd": {
+        "LOCATION_ID": [
+            1120.0
+        ],
+        "LOCATION_NAME": [
+            "Toronto Community Hostel (MUC)"
+        ],
+        "FSA": [
+            "M5R"
+        ],
+        "PROGRAMS": [
+            "Toronto Community Hostel (Families)",
+            "Toronto Community Hostel (Singles)",
+            "Toronto Community Hostel (Refugee Families)",
+            "Toronto Community Hostel (Refugee Singles)"
+        ],
+        "ORGANIZATIONS": [
+            "Toronto Community Hostel"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 16.85928489042676
+    },
+    "95 Wellesley St E": {
+        "LOCATION_ID": [
+            1041.0
+        ],
+        "LOCATION_NAME": [
+            "Turning Point Youth Services "
+        ],
+        "FSA": [
+            "M4Y"
+        ],
+        "PROGRAMS": [
+            "Turning Point Youth Services Shelter",
+            "Turning Point Youth Shelter - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "Turning Point Youth Services"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 24.1118800461361
+    },
+    "705 Progress Ave": {
+        "LOCATION_ID": [
+            1115.0,
+            1360.0
+        ],
+        "LOCATION_NAME": [
+            "Warden Woods 705 Progress Ave Respite ",
+            "Progress Avenue Shelter"
+        ],
+        "FSA": [
+            "M1H"
+        ],
+        "PROGRAMS": [
+            "Warden Woods 705 Progress Ave Respite",
+            "Progress Shelter",
+            "Scarborough Progress centre- ASP"
+        ],
+        "ORGANIZATIONS": [
+            "Warden Woods Community Centre",
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 100.04094579008074
+    },
+    "189B Booth Ave": {
+        "LOCATION_ID": [
+            1001.0
+        ],
+        "LOCATION_NAME": [
+            "Red Door Family Shelter"
+        ],
+        "FSA": [
+            "M4M"
+        ],
+        "PROGRAMS": [
+            "Red Door - Family Shelter"
+        ],
+        "ORGANIZATIONS": [
+            "WoodGreen Red Door Family Shelter"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 84.25123456790124
+    },
+    "7 Vanauley St": {
+        "LOCATION_ID": [
+            1096.0
+        ],
+        "LOCATION_NAME": [
+            "Vanauley Street YMCA Emergency Shelter"
+        ],
+        "FSA": [
+            "M5T"
+        ],
+        "PROGRAMS": [
+            "YMCA House-Vanauley"
+        ],
+        "ORGANIZATIONS": [
+            "YMCA of Greater Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 28.44982698961938
+    },
+    "21 Walmer Rd": {
+        "LOCATION_ID": [
+            1101.0
+        ],
+        "LOCATION_NAME": [
+            "YMCA Sprott House "
+        ],
+        "FSA": [
+            "M5R"
+        ],
+        "PROGRAMS": [
+            "YMCA Sprott House"
+        ],
+        "ORGANIZATIONS": [
+            "YMCA of Greater Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 23.52306805074971
+    },
+    "80 Woodlawn Ave E": {
+        "LOCATION_ID": [
+            1062.0
+        ],
+        "LOCATION_NAME": [
+            "YWCA 1st Stop Woodlawn "
+        ],
+        "FSA": [
+            "M4T"
+        ],
+        "PROGRAMS": [
+            "YWCA - Adult Women Shelter",
+            "YWCA - Youth Shelter"
+        ],
+        "ORGANIZATIONS": [
+            "YWCA Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 54.23125720876586
+    },
+    "1684 Queen St E": {
+        "LOCATION_ID": [
+            1171.0
+        ],
+        "LOCATION_NAME": [
+            "YWCA East End Hotel Program",
+            "SSHA East End Hotel Program"
+        ],
+        "FSA": [
+            "M4L"
+        ],
+        "PROGRAMS": [
+            "YWCA Davenport Women's Hotel Program",
+            "YWCA Davenport Youth Hotel Program",
+            "SSHA Queen East Hotel Program"
+        ],
+        "ORGANIZATIONS": [
+            "YWCA Toronto",
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2022-04-07 00:00:00",
+        "DAYS_ACTIVE": 461,
+        "MEAN_DAILY_SERVICE_USERS": 40.89351851851852
+    },
+    "6 Warrendale Ct": {
+        "LOCATION_ID": [
+            1064.0
+        ],
+        "LOCATION_NAME": [
+            "Youth Without Shelter "
+        ],
+        "FSA": [
+            "M9V"
+        ],
+        "PROGRAMS": [
+            "Youth without Shelter Emergency Shelter Program",
+            "Youth without Shelter Stay In School Program"
+        ],
+        "ORGANIZATIONS": [
+            "Youth Without Shelter"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 41.200115340253745
+    },
+    "747 Warden Ave": {
+        "LOCATION_ID": [
+            1147.0
+        ],
+        "LOCATION_NAME": [
+            "YouthLink "
+        ],
+        "FSA": [
+            "M1L"
+        ],
+        "PROGRAMS": [
+            "YouthLink Emergency Program",
+            "YouthLink Transitional Program",
+            "YouthLink Emergency Program - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "YouthLink"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1733,
+        "MEAN_DAILY_SERVICE_USERS": 42.72952710495963
+    },
+    "76 Church St": {
+        "LOCATION_ID": [
+            1190.0
+        ],
+        "LOCATION_NAME": [
+            "SSHA Downtown Response Program",
+            "TSSS Downtown Response Program"
+        ],
+        "FSA": [
+            "M5C"
+        ],
+        "PROGRAMS": [
+            "Seaton House Hostel Response Program"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-01-26 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1708,
+        "MEAN_DAILY_SERVICE_USERS": 51.8724400234055
+    },
+    "962 Bloor St W": {
+        "LOCATION_ID": [
+            1104.0
+        ],
+        "LOCATION_NAME": [
+            "Sistering"
+        ],
+        "FSA": [
+            "M6H"
+        ],
+        "PROGRAMS": [
+            "Sistering Overnight Women's Program"
+        ],
+        "ORGANIZATIONS": [
+            "Sistering: A Women's Place"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-03-31 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1644,
+        "MEAN_DAILY_SERVICE_USERS": 15.43581514762516
+    },
+    "1059 College Street": {
+        "LOCATION_ID": [
+            1193.0
+        ],
+        "LOCATION_NAME": [
+            "Fred Victor Centre Fatima House"
+        ],
+        "FSA": [
+            "M6H"
+        ],
+        "PROGRAMS": [
+            "Fred Victor Women's Hostel Program"
+        ],
+        "ORGANIZATIONS": [
+            "Fred Victor Centre"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-04-16 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1628,
+        "MEAN_DAILY_SERVICE_USERS": 28.937384898710867
+    },
+    "45 The Esplanade": {
+        "LOCATION_ID": [
+            1191.0
+        ],
+        "LOCATION_NAME": [
+            "45 The Esplanade"
+        ],
+        "FSA": [
+            "M5E"
+        ],
+        "PROGRAMS": [
+            "HFS 45 The Esplanade"
+        ],
+        "ORGANIZATIONS": [
+            "Homes First Society"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-04-16 00:00:00",
+        "LAST_ACTIVE": "2022-12-05 00:00:00",
+        "DAYS_ACTIVE": 598,
+        "MEAN_DAILY_SERVICE_USERS": 238.86310517529216
+    },
+    "556 Sherbourne St": {
+        "LOCATION_ID": [
+            1192.0
+        ],
+        "LOCATION_NAME": [
+            "St. Simon's Clubbe House"
+        ],
+        "FSA": [
+            "M4X"
+        ],
+        "PROGRAMS": [
+            "St. Simon's Clubbe House",
+            "St Simon's Clubbe House - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "St. Simon's Shelter Inc."
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-04-16 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1628,
+        "MEAN_DAILY_SERVICE_USERS": 29.89073050951504
+    },
+    "67 Adelaide St E": {
+        "LOCATION_ID": [
+            1007.0
+        ],
+        "LOCATION_NAME": [
+            "Adelaide Resource Centre for Women"
+        ],
+        "FSA": [
+            "M5C"
+        ],
+        "PROGRAMS": [
+            "Fred Victor The Phoenix Women's 24/7 Drop-In"
+        ],
+        "ORGANIZATIONS": [
+            "Fred Victor Centre"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-05-07 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1607,
+        "MEAN_DAILY_SERVICE_USERS": 43.457089552238806
+    },
+    "20 Milner Business Ct": {
+        "LOCATION_ID": [
+            1194.0
+        ],
+        "LOCATION_NAME": [
+            "Scarborough Women's Shelter - Milner"
+        ],
+        "FSA": [
+            "M1B"
+        ],
+        "PROGRAMS": [
+            "Scarborough Women's Shelter - Milner"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-05-20 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1594,
+        "MEAN_DAILY_SERVICE_USERS": 99.0025078369906
+    },
+    "92 Peter St": {
+        "LOCATION_ID": [
+            1198.0
+        ],
+        "LOCATION_NAME": [
+            "Multiple Youth Agencies Downtown Hotel Program"
+        ],
+        "FSA": [
+            "M5V"
+        ],
+        "PROGRAMS": [
+            "Covenant House - Hotel Program",
+            "Native Child Youth Hotel Program",
+            "YMCA Youth Hotel Program",
+            "",
+            "Eva's Satellite Downtown Hotel Program.",
+            "Eva's Place Hotel"
+        ],
+        "ORGANIZATIONS": [
+            "Covenant House Toronto",
+            "Native Child & Family Services Toronto",
+            "YMCA of Greater Toronto",
+            "Eva's Initiatives"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2021-06-01 00:00:00",
+        "LAST_ACTIVE": "2023-04-28 00:00:00",
+        "DAYS_ACTIVE": 696,
+        "MEAN_DAILY_SERVICE_USERS": 115.5868005738881
+    },
+    "4117 Lawrence Ave E": {
+        "LOCATION_ID": [
+            1195.0
+        ],
+        "LOCATION_NAME": [
+            "HFS - Lawrence East Shelter"
+        ],
+        "FSA": [
+            "M1E"
+        ],
+        "PROGRAMS": [
+            "HFS - Lawrence East Shelter",
+            "Homes First Society - 4117 Lawrence Ave East - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "Homes First Society"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-06-17 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1566,
+        "MEAN_DAILY_SERVICE_USERS": 73.46585832801532
+    },
+    "348 Davenport Road": {
+        "LOCATION_ID": [
+            1129.0
+        ],
+        "LOCATION_NAME": [
+            "YWCA Davenport Shelter"
+        ],
+        "FSA": [
+            "M5R"
+        ],
+        "PROGRAMS": [
+            "YWCA Davenport - Adult",
+            "YWCA Davenport - Youth"
+        ],
+        "ORGANIZATIONS": [
+            "YWCA Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-12-21 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1379,
+        "MEAN_DAILY_SERVICE_USERS": 47.823188405797104
+    },
+    "101 Placer Ct": {
+        "LOCATION_ID": [
+            1200.0
+        ],
+        "LOCATION_NAME": [
+            "",
+            "HFS Placer"
+        ],
+        "FSA": [
+            "M2H"
+        ],
+        "PROGRAMS": [
+            "",
+            "Homes First Society - Placer Mixed Adult Program",
+            "Homes First Society - 101 Placer - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "Homes First Society"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2021-12-30 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1370,
+        "MEAN_DAILY_SERVICE_USERS": 72.54777534646243
+    },
+    "5800 Yonge St": {
+        "LOCATION_ID": [
+            1153.0
+        ],
+        "LOCATION_NAME": [
+            "HFS Willowdale Centre"
+        ],
+        "FSA": [
+            "M2M"
+        ],
+        "PROGRAMS": [
+            "Homes First Society - Willowdale Centre - Men",
+            "Homes First Society - Willowdale Centre - Women",
+            "Homes First Society - 5800 Yonge Street - Warming Centre",
+            "Homes First Society - Willowdale Centre - Co-Ed",
+            "Homes First Society - Willowdale - Refugee - Building B",
+            "HFS - Willowdale - Building A - Refugee Men",
+            "HFS - Willowdale - Building B - Refugee Women",
+            "HFS - Willowdale - Refugee Men - Building A - ASP",
+            "HFS - Willowdale - Refugee Women - Building B - ASP"
+        ],
+        "ORGANIZATIONS": [
+            "Homes First Society"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2022-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1368,
+        "MEAN_DAILY_SERVICE_USERS": 341.56829802775746
+    },
+    "22 Metropolitan Rd": {
+        "LOCATION_ID": [
+            1220.0
+        ],
+        "LOCATION_NAME": [
+            "HFS - Metro Strachan"
+        ],
+        "FSA": [
+            "M1R"
+        ],
+        "PROGRAMS": [
+            "HFS - Metro Strachan - Co-ed",
+            "Homes First Society - Metro - Refugee Singles",
+            "Homes First Society - Metro Refugee - Winter Respite",
+            "Homes First Society - Metro - Refugee Respite."
+        ],
+        "ORGANIZATIONS": [
+            "Homes First Society"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2022-01-10 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1359,
+        "MEAN_DAILY_SERVICE_USERS": 302.78970588235296
+    },
+    "220 Cowan Ave": {
+        "LOCATION_ID": [
+            1240.0
+        ],
+        "LOCATION_NAME": [
+            "Masaryk-Cowan CC"
+        ],
+        "FSA": [
+            "M6K"
+        ],
+        "PROGRAMS": [
+            "COVID19 Response - Masaryk-Cowan"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2022-01-14 00:00:00",
+        "LAST_ACTIVE": "2022-02-27 00:00:00",
+        "DAYS_ACTIVE": 44,
+        "MEAN_DAILY_SERVICE_USERS": 31.488888888888887
+    },
+    "25 Mendelssohn St": {
+        "LOCATION_ID": [
+            1158.0
+        ],
+        "LOCATION_NAME": [
+            "Warden Hilltop CC"
+        ],
+        "FSA": [
+            "M1L"
+        ],
+        "PROGRAMS": [
+            "COVID19 Response - Warden Hilltop"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2022-01-15 00:00:00",
+        "LAST_ACTIVE": "2022-04-17 00:00:00",
+        "DAYS_ACTIVE": 92,
+        "MEAN_DAILY_SERVICE_USERS": 51.333333333333336
+    },
+    "346 Spadina Ave.": {
+        "LOCATION_ID": [
+            1300.0
+        ],
+        "LOCATION_NAME": [
+            "The Scott Mission - Kensington location"
+        ],
+        "FSA": [
+            "M5T"
+        ],
+        "PROGRAMS": [
+            "Scott Mission - Men's Ministry Overnight Program"
+        ],
+        "ORGANIZATIONS": [
+            "The Scott Mission Inc."
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2022-02-28 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1310,
+        "MEAN_DAILY_SERVICE_USERS": 66.03203661327231
+    },
+    "640 Dixon Rd.": {
+        "LOCATION_ID": [
+            1320.0
+        ],
+        "LOCATION_NAME": [
+            "COSTI Hotel Program Dixon"
+        ],
+        "FSA": [
+            "M9W"
+        ],
+        "PROGRAMS": [
+            "COSTI - Hotel Program - Dixon (Refugee Families)",
+            "COSTI - Hotel Program - Dixon (Refugee Singles)"
+        ],
+        "ORGANIZATIONS": [
+            "COSTI Immigrant Services"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2022-03-07 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1303,
+        "MEAN_DAILY_SERVICE_USERS": 664.1188650306749
+    },
+    "89 Church Ave.": {
+        "LOCATION_ID": [
+            1400.0
+        ],
+        "LOCATION_NAME": [
+            "Mitchell Field CC"
+        ],
+        "FSA": [
+            "M2N"
+        ],
+        "PROGRAMS": [
+            "Mitchell Field Warming Centre"
+        ],
+        "ORGANIZATIONS": [
+            "Dixon Hall"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2022-12-22 00:00:00",
+        "LAST_ACTIVE": "2023-03-03 00:00:00",
+        "DAYS_ACTIVE": 71,
+        "MEAN_DAILY_SERVICE_USERS": 33.47222222222222
+    },
+    "55 John St": {
+        "LOCATION_ID": [
+            1078.0
+        ],
+        "LOCATION_NAME": [
+            "Metro Hall"
+        ],
+        "FSA": [
+            "M5V"
+        ],
+        "PROGRAMS": [
+            "Fred Victor Warming Centre - Metro Hall"
+        ],
+        "ORGANIZATIONS": [
+            "Fred Victor Centre"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2022-12-28 00:00:00",
+        "LAST_ACTIVE": "2025-04-18 00:00:00",
+        "DAYS_ACTIVE": 842,
+        "MEAN_DAILY_SERVICE_USERS": 35.45876288659794
+    },
+    "66 Norfinch Dr": {
+        "LOCATION_ID": [
+            1189.0
+        ],
+        "LOCATION_NAME": [
+            "Etobicoke Hotel Site 1"
+        ],
+        "FSA": [
+            "M3N"
+        ],
+        "PROGRAMS": [
+            "Salvation Army - Florence Booth - Hotel 400 - Women",
+            "Salvation Army - New Hope - Hotel 400 - Men"
+        ],
+        "ORGANIZATIONS": [
+            "The Salvation Army of Canada"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2022-12-29 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 1006,
+        "MEAN_DAILY_SERVICE_USERS": 172.0953326713009
+    },
+    "150 Borough Dr": {
+        "LOCATION_ID": [
+            1420.0
+        ],
+        "LOCATION_NAME": [
+            "Scarborough Civic Centre"
+        ],
+        "FSA": [
+            "M1P"
+        ],
+        "PROGRAMS": [
+            "Scarborough Warming Centre - Scarborough CC"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2023-01-13 00:00:00",
+        "LAST_ACTIVE": "2023-04-01 00:00:00",
+        "DAYS_ACTIVE": 78,
+        "MEAN_DAILY_SERVICE_USERS": 13.6
+    },
+    "58 Cecil Street": {
+        "LOCATION_ID": [
+            1440.0
+        ],
+        "LOCATION_NAME": [
+            "CONC - Warming Centre - Cecil"
+        ],
+        "FSA": [
+            "M5T"
+        ],
+        "PROGRAMS": [
+            "Christie Ossington Warming Centre - Cecil CC",
+            "TSSS - Warming Centre - Cecil Community Centre"
+        ],
+        "ORGANIZATIONS": [
+            "Christie Ossington Neighbourhood Centre",
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2023-02-01 00:00:00",
+        "LAST_ACTIVE": "2025-03-01 00:00:00",
+        "DAYS_ACTIVE": 759,
+        "MEAN_DAILY_SERVICE_USERS": 22.652173913043477
+    },
+    "12 Holmes Ave": {
+        "LOCATION_ID": [
+            1460.0
+        ],
+        "LOCATION_NAME": [
+            "Dixon Hall Warming Centre - North York",
+            "Dixon Hall - Warming Centre North York"
+        ],
+        "FSA": [
+            "M2N"
+        ],
+        "PROGRAMS": [
+            "Dixon Hall Warming Centre - Willowdale"
+        ],
+        "ORGANIZATIONS": [
+            "Dixon Hall"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2023-03-10 00:00:00",
+        "LAST_ACTIVE": "2025-04-14 00:00:00",
+        "DAYS_ACTIVE": 766,
+        "MEAN_DAILY_SERVICE_USERS": 35.407407407407405
+    },
+    "15 Olive Ave": {
+        "LOCATION_ID": [
+            1460.0
+        ],
+        "LOCATION_NAME": [
+            "Dixon Hall - Willowdale - Olive"
+        ],
+        "FSA": [
+            "M2N"
+        ],
+        "PROGRAMS": [
+            "Dixon Hall Warming Centre - Willowdale"
+        ],
+        "ORGANIZATIONS": [
+            "Dixon Hall"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2023-03-29 00:00:00",
+        "LAST_ACTIVE": "2023-12-31 00:00:00",
+        "DAYS_ACTIVE": 277,
+        "MEAN_DAILY_SERVICE_USERS": 17.391304347826086
+    },
+    "60 York Street": {
+        "LOCATION_ID": [
+            1167.0
+        ],
+        "LOCATION_NAME": [
+            "Downtown Hotel Program - York"
+        ],
+        "FSA": [
+            "M5J"
+        ],
+        "PROGRAMS": [
+            "Eva's Satellite - York Street"
+        ],
+        "ORGANIZATIONS": [
+            "Eva's Initiatives"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2023-04-18 00:00:00",
+        "LAST_ACTIVE": "2023-04-18 00:00:00",
+        "DAYS_ACTIVE": 0,
+        "MEAN_DAILY_SERVICE_USERS": 34.0
+    },
+    "111 Spadina Rd": {
+        "LOCATION_ID": [
+            1500.0
+        ],
+        "LOCATION_NAME": [
+            "Native Child & Family - Spadina"
+        ],
+        "FSA": [
+            "M5R"
+        ],
+        "PROGRAMS": [
+            "Niizhoodenh Mshiikenhik - Twin Turtles"
+        ],
+        "ORGANIZATIONS": [
+            "Native Child & Family Services Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2023-04-29 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 885,
+        "MEAN_DAILY_SERVICE_USERS": 10.765237020316027
+    },
+    "75 Elizabeth Street": {
+        "LOCATION_ID": [
+            1521.0
+        ],
+        "LOCATION_NAME": [
+            "Fred Victor Elizabeth"
+        ],
+        "FSA": [
+            "M5G"
+        ],
+        "PROGRAMS": [
+            "Fred Victor Warming Centre - Elizabeth"
+        ],
+        "ORGANIZATIONS": [
+            "Fred Victor Centre"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2023-11-15 00:00:00",
+        "LAST_ACTIVE": "2023-12-31 00:00:00",
+        "DAYS_ACTIVE": 46,
+        "MEAN_DAILY_SERVICE_USERS": 34.42857142857143
+    },
+    "885 Scarborough Golf Club Road": {
+        "LOCATION_ID": [
+            1561.0
+        ],
+        "LOCATION_NAME": [
+            "885 Scarborough Golf Club Road"
+        ],
+        "FSA": [
+            "M1G"
+        ],
+        "PROGRAMS": [
+            "SSHA - Warming Centre - Scarborough Golf Club Road",
+            "TSSS - Warming Centre - Scarborough Golf Club Road"
+        ],
+        "ORGANIZATIONS": [
+            "City of Toronto"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2023-11-28 00:00:00",
+        "LAST_ACTIVE": "2025-05-03 00:00:00",
+        "DAYS_ACTIVE": 522,
+        "MEAN_DAILY_SERVICE_USERS": 37.03333333333333
+    },
+    "136 Spadina Rd": {
+        "LOCATION_ID": [
+            1541.0
+        ],
+        "LOCATION_NAME": [
+            "Christie Ossington - Spadina Rd"
+        ],
+        "FSA": [
+            "M5R"
+        ],
+        "PROGRAMS": [
+            "Christie Ossington Warming Centre - Spadina Rd"
+        ],
+        "ORGANIZATIONS": [
+            "Christie Ossington Neighbourhood Centre"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2023-12-31 00:00:00",
+        "LAST_ACTIVE": "2025-04-20 00:00:00",
+        "DAYS_ACTIVE": 476,
+        "MEAN_DAILY_SERVICE_USERS": 18.15525114155251
+    },
+    "81 Elizabeth Street": {
+        "LOCATION_ID": [
+            1521.0
+        ],
+        "LOCATION_NAME": [
+            "Fred Victor Elizabeth"
+        ],
+        "FSA": [
+            "M5G"
+        ],
+        "PROGRAMS": [
+            "Fred Victor Warming Centre - Elizabeth"
+        ],
+        "ORGANIZATIONS": [
+            "Fred Victor Centre"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2024-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-04-23 00:00:00",
+        "DAYS_ACTIVE": 478,
+        "MEAN_DAILY_SERVICE_USERS": 66.43347639484979
+    },
+    "970 Dixon Rd": {
+        "LOCATION_ID": [
+            1601.0
+        ],
+        "LOCATION_NAME": [
+            "CRC Hotel Program Dixon"
+        ],
+        "FSA": [
+            "M9W"
+        ],
+        "PROGRAMS": [
+            "Canadian Red Cross - Hotel Program - Dixon (Refugee Families)",
+            "Canadian Red Cross - Hotel Program - Dixon (Refugee Singles)"
+        ],
+        "ORGANIZATIONS": [
+            "The Canadian Red Cross Society"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2024-04-17 00:00:00",
+        "LAST_ACTIVE": "2024-09-30 00:00:00",
+        "DAYS_ACTIVE": 166,
+        "MEAN_DAILY_SERVICE_USERS": 110.06586826347305
+    },
+    "5515 Eglinton Ave West": {
+        "LOCATION_ID": [
+            1581.0
+        ],
+        "LOCATION_NAME": [
+            "CRC Hotel Program Eglinton"
+        ],
+        "FSA": [
+            "M9C"
+        ],
+        "PROGRAMS": [
+            "Canadian Red Cross - Hotel Program - Eglinton (Refugee Singles)",
+            "Canadian Red Cross - Hotel Program - Eglinton (Refugee Families)"
+        ],
+        "ORGANIZATIONS": [
+            "The Canadian Red Cross Society"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2024-04-17 00:00:00",
+        "LAST_ACTIVE": "2025-06-29 00:00:00",
+        "DAYS_ACTIVE": 438,
+        "MEAN_DAILY_SERVICE_USERS": 254.55580865603645
+    },
+    "158 Madison Ave.": {
+        "LOCATION_ID": [
+            1621.0
+        ],
+        "LOCATION_NAME": [
+            "Covenant House - Madison"
+        ],
+        "FSA": [
+            "M5R"
+        ],
+        "PROGRAMS": [
+            "Covenant House - Madison House - Refugee Youth"
+        ],
+        "ORGANIZATIONS": [
+            "Covenant House Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2024-10-07 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 358,
+        "MEAN_DAILY_SERVICE_USERS": 9.818941504178273
+    },
+    "2387 Dundas Street West": {
+        "LOCATION_ID": [
+            1641.0
+        ],
+        "LOCATION_NAME": [
+            "Romero-Edna Lane House"
+        ],
+        "FSA": [
+            "M6P"
+        ],
+        "PROGRAMS": [
+            "Romero - Edna Lane House Transitional Shelter"
+        ],
+        "ORGANIZATIONS": [
+            "Toronto Refugee Community Non-Profit Homes and Services"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2024-10-18 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 347,
+        "MEAN_DAILY_SERVICE_USERS": 37.27873563218391
+    },
+    "870 Queen St E": {
+        "LOCATION_ID": [
+            1165.0
+        ],
+        "LOCATION_NAME": [
+            "Jimmie Simpson CC"
+        ],
+        "FSA": [
+            "M4M"
+        ],
+        "PROGRAMS": [
+            "Dixon Hall Warming Centre - Jimmie Simpson"
+        ],
+        "ORGANIZATIONS": [
+            "Dixon Hall"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2024-12-21 00:00:00",
+        "LAST_ACTIVE": "2025-03-01 00:00:00",
+        "DAYS_ACTIVE": 70,
+        "MEAN_DAILY_SERVICE_USERS": 23.952380952380953
+    },
+    "18 Fourteenth Street": {
+        "LOCATION_ID": [
+            1661.0
+        ],
+        "LOCATION_NAME": [
+            "CHT Thrive Transitional Shelter"
+        ],
+        "FSA": [
+            "M8V"
+        ],
+        "PROGRAMS": [
+            "CHT Thrive Transitional shelter for refugee youth"
+        ],
+        "ORGANIZATIONS": [
+            "Covenant House Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2025-01-01 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 272,
+        "MEAN_DAILY_SERVICE_USERS": 58.252747252747255
+    },
+    "213 Carlton Street": {
+        "LOCATION_ID": [
+            1721.0
+        ],
+        "LOCATION_NAME": [
+            "213 Carlton Street"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "CMHA-TO - Carlton House - Mental Health & Addictions -  Solace 2",
+            "CMHA-TO - Carlton House - Mental Health & Addictions - Solace 1"
+        ],
+        "ORGANIZATIONS": [
+            "Canadian Mental Health Association - Toronto Branch"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2025-05-06 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 147,
+        "MEAN_DAILY_SERVICE_USERS": 18.722972972972972
+    },
+    "179 Gerrard St. East": {
+        "LOCATION_ID": [
+            1741.0
+        ],
+        "LOCATION_NAME": [
+            "La Passerelle I.D.E. L'Agapanthe"
+        ],
+        "FSA": [
+            "M5A"
+        ],
+        "PROGRAMS": [
+            "La Passerelle I.D.E. - L'Agapanthe - Maison de Transition"
+        ],
+        "ORGANIZATIONS": [
+            "La Passerelle Integration et Development Economique"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2025-06-09 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 113,
+        "MEAN_DAILY_SERVICE_USERS": 29.29824561403509
+    },
+    "4584 Kingston Road": {
+        "LOCATION_ID": [
+            1761.0
+        ],
+        "LOCATION_NAME": [
+            "Warden Woods - Kingston Road Shelter"
+        ],
+        "FSA": [
+            "M1E"
+        ],
+        "PROGRAMS": [
+            "Warden Woods - Kingston Road Shelter"
+        ],
+        "ORGANIZATIONS": [
+            "Warden Woods Community Centre"
+        ],
+        "ACTIVE": false,
+        "FIRST_ACTIVE": "2025-06-20 00:00:00",
+        "LAST_ACTIVE": "2025-07-02 00:00:00",
+        "DAYS_ACTIVE": 12,
+        "MEAN_DAILY_SERVICE_USERS": 31.384615384615383
+    },
+    "629 Adelaide St W": {
+        "LOCATION_ID": [
+            1781.0
+        ],
+        "LOCATION_NAME": [
+            "St. Felix Ctr - Adelaide Shelter"
+        ],
+        "FSA": [
+            "M6J"
+        ],
+        "PROGRAMS": [
+            "St. Felix Centre - 629 Adelaide St."
+        ],
+        "ORGANIZATIONS": [
+            "St. Felix Social Ministries Outreach"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2025-07-21 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 71,
+        "MEAN_DAILY_SERVICE_USERS": 34.416666666666664
+    },
+    "981 Dundas St W": {
+        "LOCATION_ID": [
+            1701.0
+        ],
+        "LOCATION_NAME": [
+            "Matthew House - Dundas House"
+        ],
+        "FSA": [
+            "M6J"
+        ],
+        "PROGRAMS": [
+            "Matthew House Toronto - Dundas refugee Transitional Home"
+        ],
+        "ORGANIZATIONS": [
+            "Matthew House Refugee Services-Toronto"
+        ],
+        "ACTIVE": true,
+        "FIRST_ACTIVE": "2025-08-06 00:00:00",
+        "LAST_ACTIVE": "2025-09-30 00:00:00",
+        "DAYS_ACTIVE": 55,
+        "MEAN_DAILY_SERVICE_USERS": 5.535714285714286
+    }
+}

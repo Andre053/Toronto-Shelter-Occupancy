@@ -1,0 +1,3622 @@
+{
+    "type": "FeatureCollection",
+    "name": "toronto_shelter_locations_for_request",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.51464,
+                    43.71913
+                ]
+            },
+            "properties": {
+                "address": "1677 Wilson Ave",
+                "name": [
+                    "COSTI/City North York West Hotel Program",
+                    "SSHA North York West Hotel Program",
+                    "TSSS North York West Hotel Program"
+                ],
+                "org": [
+                    "COSTI Immigrant Services",
+                    "City of Toronto"
+                ],
+                "program": [
+                    "COSTI North York West Hotel - Family Program",
+                    "COSTI North York West Hotel - Seniors Program",
+                    "COSTI North York West Hotel Program - Men",
+                    "COSTI North York West Hotel Program - Mixed Adult",
+                    "COSTI North York West Hotel Program - Women",
+                    "Birkdale North York West Hotel Program - Family Program",
+                    "Birkdale North York West Hotel Program Single Males",
+                    "COSTI North York West Hotel Program - Women's Program",
+                    "SSHA North York West Hotel Program - Mixed Adult",
+                    "SSHA North York West Hotel Program - Couples",
+                    "SSHA NYW - North",
+                    "SSHA North York West Hotel - North - Mixed Adult",
+                    "SSHA North York West Hotel - North - Couples",
+                    "SSHA North York West Hotel - South - Couples",
+                    "TSSS North York West Hotel - North - Couples",
+                    "TSSS North York West Hotel - North - Mixed Adult",
+                    "TSSS North York West Hotel - South - Couples",
+                    "TSSS North York West Hotel Program - Mixed Adult",
+                    "Birkdale Residence - Toronto Plaza Hotel - SOUTH - ASP"
+                ],
+                "id": [
+                    1103.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.40717,
+                    43.65767
+                ]
+            },
+            "properties": {
+                "address": "100 Lippincott St",
+                "name": [
+                    "COSTI Reception Centre"
+                ],
+                "org": [
+                    "COSTI Immigrant Services"
+                ],
+                "program": [
+                    "COSTI Reception Centre CITY Program",
+                    "COSTI Reception Ctr CITY Program - Top Bunk"
+                ],
+                "id": [
+                    1051.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.32298,
+                    43.77009
+                ]
+            },
+            "properties": {
+                "address": "55 Hallcrown Pl",
+                "name": [
+                    "COSTI Uptown Hotel Program"
+                ],
+                "org": [
+                    "COSTI Immigrant Services"
+                ],
+                "program": [
+                    "COSTI Uptown Hotel COVID-19 - Family Program",
+                    "COSTI Uptown Hotel Family Program",
+                    "COSTI Uptown Hotel - Women's Program",
+                    "COSTI Uptown Hotel Program - Women",
+                    "COSTI Uptown Hotel Program - Couples",
+                    "COSTI Uptown Hotel Program - Refugee Singles"
+                ],
+                "id": [
+                    1114.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.59415,
+                    43.71609
+                ]
+            },
+            "properties": {
+                "address": "445 Rexdale Blvd",
+                "name": [
+                    "CONC Etobicoke Hotel Program"
+                ],
+                "org": [
+                    "Christie Ossington Neighbourhood Centre"
+                ],
+                "program": [
+                    "CONC Etobicoke Hotel Program - Mixed Adult"
+                ],
+                "id": [
+                    1160.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.44653,
+                    43.63911
+                ]
+            },
+            "properties": {
+                "address": "14 Roncesvalles Ave",
+                "name": [
+                    "CONC West End Hotel Program"
+                ],
+                "org": [
+                    "Christie Ossington Neighbourhood Centre"
+                ],
+                "program": [
+                    "CONC Men's Hotel Program"
+                ],
+                "id": [
+                    1172.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.44591,
+                    43.66618
+                ]
+            },
+            "properties": {
+                "address": "973 Lansdowne Ave",
+                "name": [
+                    "CONC Men's Shelter Lansdowne Ave"
+                ],
+                "org": [
+                    "Christie Ossington Neighbourhood Centre"
+                ],
+                "program": [
+                    "Christie Ossington Men's Hostel",
+                    "Christie Ossington Men's Hostel - ASP",
+                    "Christie Ossington Men's Hostel - Lansdowne - Top Bunk"
+                ],
+                "id": [
+                    1029.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.53901,
+                    43.64134
+                ]
+            },
+            "properties": {
+                "address": "850 Bloor St W",
+                "name": [
+                    "CONC Men's Shelter Bloor St W"
+                ],
+                "org": [
+                    "Christie Ossington Neighbourhood Centre"
+                ],
+                "program": [
+                    "Christie Ossington Men's Hostel South"
+                ],
+                "id": [
+                    1102.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.41951,
+                    43.66721
+                ]
+            },
+            "properties": {
+                "address": "43 Christie St",
+                "name": [
+                    "Christie Refugee Welcome Centre"
+                ],
+                "org": [
+                    "Christie Refugee Welcome Centre, Inc."
+                ],
+                "program": [
+                    "Christie Refugee Welcome Centre - Settlement and Support"
+                ],
+                "id": [
+                    1052.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.26743,
+                    43.76831
+                ]
+            },
+            "properties": {
+                "address": "1229 Ellesmere Rd",
+                "name": [
+                    "SSHA Birkdale Residence",
+                    "TSSS Birkdale Residence"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Birkdale Residence - Bedded Program"
+                ],
+                "id": [
+                    1070.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.36405,
+                    43.66154
+                ]
+            },
+            "properties": {
+                "address": "274 Sackville St",
+                "name": [
+                    "Woodgreen Regent Park Interim Housing 1"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Woodgreen Interim Housing 1 - Mixed Adult Program",
+                    "Woodgreen Interim Housing 1 - Family Program"
+                ],
+                "id": [
+                    1183.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.36325,
+                    43.66184
+                ]
+            },
+            "properties": {
+                "address": "295 Sackville St",
+                "name": [
+                    "Woodgreen Regent Park Interim Housing 2"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Woodgreen Interim Housing 2 - Mixed Adult Program",
+                    "Woodgreen Interim Housing 2 - Family Program"
+                ],
+                "id": [
+                    1184.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.36551,
+                    43.66211
+                ]
+            },
+            "properties": {
+                "address": "325 Gerrard St E",
+                "name": [
+                    "Woodgreen Regent Park Interim Housing 3"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Woodgreen Interim Housing 3 - Mixed Adult Program",
+                    "Woodgreen Interim Housing 3 - Family Program"
+                ],
+                "id": [
+                    1185.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3648,
+                    43.66225
+                ]
+            },
+            "properties": {
+                "address": "355 Gerrard St E",
+                "name": [
+                    "Woodgreen Regent Park Interim Housing 4"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Woodgreen Interim Housing 4 - Family Program",
+                    "Woodgreen Interim Housing 4 - Mixed Adult Program"
+                ],
+                "id": [
+                    1186.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.49638,
+                    43.74208
+                ]
+            },
+            "properties": {
+                "address": "1651 Sheppard Ave W",
+                "name": [
+                    "SSHA Downsview Dells",
+                    "TSSS Downsview Dells"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Downsview Dells Bedded Program",
+                    "Downsview Dells - ASP"
+                ],
+                "id": [
+                    1009.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.24086,
+                    43.71691
+                ]
+            },
+            "properties": {
+                "address": "2685 Kingston Rd",
+                "name": [
+                    "SSHA Scarborough Response Program"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Scarborough Women's Shelter Response Program"
+                ],
+                "id": [
+                    1182.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.19674,
+                    43.76068
+                ]
+            },
+            "properties": {
+                "address": "4222 Kingston Rd",
+                "name": [
+                    "SSHA Family Residence",
+                    "TSSS Family Residence"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Family Residence - Main Program",
+                    "Family Residence - Main Site - Winter Program"
+                ],
+                "id": [
+                    1065.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.17436,
+                    43.77664
+                ]
+            },
+            "properties": {
+                "address": "4674 Kingston Rd",
+                "name": [
+                    "SSHA Scarborough Hotel Program 3",
+                    "TSSS Scarborough Hotel Program 3",
+                    "Kingston Residence SWS"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "SSHA Scarborough Hotel 3 - Family Program",
+                    "SSHA Scarborough Hotel 3 - Mixed Adult Winter Program",
+                    "TSSS Scarborough Hotel 3 - Family Program",
+                    "Kingston Residence SWS-Family Program"
+                ],
+                "id": [
+                    1066.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.18611,
+                    43.77236
+                ]
+            },
+            "properties": {
+                "address": "4540 Kingston Rd",
+                "name": [
+                    "SSHA Scarborough Hotel Program 4",
+                    "TSSS Scarborough Hotel Program 4"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "SSHA Scarborough Hotel 4 - Family Program",
+                    "TSSS Scarborough Hotel 4 - Family Program"
+                ],
+                "id": [
+                    1067.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.43671,
+                    43.747
+                ]
+            },
+            "properties": {
+                "address": "38 Bathurst St",
+                "name": [
+                    "SSHA Fort York Residence",
+                    "TSSS Fort York Residence"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Fort York Residence Bedded Program",
+                    "Fort York SRO Units Program",
+                    "Fort York Extreme Weather Program",
+                    "Fort York Residence - ASP"
+                ],
+                "id": [
+                    1011.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.37148,
+                    43.66061
+                ]
+            },
+            "properties": {
+                "address": "291 Sherbourne St",
+                "name": [
+                    "Robertson House"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Robertson House - Main Program"
+                ],
+                "id": [
+                    1069.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.18391,
+                    43.77463
+                ]
+            },
+            "properties": {
+                "address": "4584 Kingston Rd",
+                "name": [
+                    "SSHA Scarborough Hotel Program 1",
+                    "Eva's Satellite Scarborough Hotel Program",
+                    "Scarborough Hotel Program 1"
+                ],
+                "org": [
+                    "City of Toronto",
+                    "Eva's Initiatives",
+                    "Warden Woods Community Centre"
+                ],
+                "program": [
+                    "SSHA Scarborough Hotel 1 - Mixed Adult Program",
+                    "Eva's Satellite - Kingston Road",
+                    "Warden Woods - Kingston Road Shelter"
+                ],
+                "id": [
+                    1155.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2235,
+                    43.73425
+                ]
+            },
+            "properties": {
+                "address": "3306 Kingston Rd",
+                "name": [
+                    "SSHA Scarborough Village Residence",
+                    "TSSS Scarborough Village Residence"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Scarborough Village Residence Main Program",
+                    "Scarborough Warming Centre - Scarborough CC",
+                    "Scarborough Village Residence - ASP"
+                ],
+                "id": [
+                    1151.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.48293,
+                    43.66837
+                ]
+            },
+            "properties": {
+                "address": "731 Runnymede Rd",
+                "name": [
+                    "SSHA Junction Place",
+                    "TSSS Junction Place"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Junction Place",
+                    "Junction Place - ASP"
+                ],
+                "id": [
+                    1154.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.37426,
+                    43.65995
+                ]
+            },
+            "properties": {
+                "address": "339 George St",
+                "name": [
+                    "SSHA Seaton House",
+                    "TSSS Seaton House"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Seaton House - Annex Harm Reduction & Managed Alcohol Program",
+                    "Seaton House - Fourth Floor Program",
+                    "Seaton House - Hostel Program",
+                    "Seaton House - Infirmary Bedded Program",
+                    "Seaton House - O'Neill Harm Reduction Program",
+                    "Seaton House - Extended Hostel Program",
+                    "Seaton House Winter Program",
+                    "Seaton House - Winter Program - O'Neill",
+                    "Seaton House - ASP"
+                ],
+                "id": [
+                    1008.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.39324,
+                    43.64875
+                ]
+            },
+            "properties": {
+                "address": "129 Peter St",
+                "name": [
+                    "Streets to Homes Assessment and Referral Centre (SHARC)"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Streets to Homes Bedded Program",
+                    "Streets to Homes - 129 Peter Street - Warming Centre"
+                ],
+                "id": [
+                    1004.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.40261,
+                    43.65008
+                ]
+            },
+            "properties": {
+                "address": "77 Ryerson Ave",
+                "name": [
+                    "SSHA Downtown Hotel Program",
+                    "TSSS Downtown Hotel Program"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "SSHA Downtown Hotel Women's Program",
+                    "TSSS Downtown Hotel Women's Program"
+                ],
+                "id": [
+                    1124.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.35936,
+                    43.6611
+                ]
+            },
+            "properties": {
+                "address": "674 Dundas St W",
+                "name": [
+                    "SSHA Womens' Residence",
+                    "TSSS Womens' Residence"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Women's Residence Extreme Weather Program",
+                    "Womens' Residence - Main Program",
+                    "Women's Residence - ASP"
+                ],
+                "id": [
+                    1005.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.41137,
+                    43.64802
+                ]
+            },
+            "properties": {
+                "address": "63 Bellwoods Ave",
+                "name": [
+                    "SSHA Bellwoods House"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Womens' Residence - Bellwoods House"
+                ],
+                "id": [
+                    1006.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.43987,
+                    43.69185
+                ]
+            },
+            "properties": {
+                "address": "616 Vaughan Rd",
+                "name": [
+                    "Cornerstone Place"
+                ],
+                "org": [
+                    "Cornerstone Place"
+                ],
+                "program": [
+                    "Cornerstone Place"
+                ],
+                "id": [
+                    1028.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.39784,
+                    43.65094
+                ]
+            },
+            "properties": {
+                "address": "222 Spadina Ave",
+                "name": [
+                    "Youth Agencies Downtown Hotel Program"
+                ],
+                "org": [
+                    "Covenant House Toronto",
+                    "Native Child & Family Services Toronto",
+                    "YMCA of Greater Toronto"
+                ],
+                "program": [
+                    "Covenant House - Hotel Program",
+                    "Native Child Youth Hotel Program",
+                    "YMCA Youth Hotel Program"
+                ],
+                "id": [
+                    1169.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38144,
+                    43.6595
+                ]
+            },
+            "properties": {
+                "address": "20 Gerrard St E",
+                "name": [
+                    "Covenant House Gerrard St E"
+                ],
+                "org": [
+                    "Covenant House Toronto"
+                ],
+                "program": [
+                    "Covenant House Residence",
+                    "Covenant House -  Transitional Safe Beds for women",
+                    "Covenant House Residence - Winter Respite",
+                    "Covenant House Residence - Refugee Youths",
+                    "Covenant House Residence - ASP"
+                ],
+                "id": [
+                    1026.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38137,
+                    43.65987
+                ]
+            },
+            "properties": {
+                "address": "21 McGill St",
+                "name": [
+                    "Covenant House McGill St"
+                ],
+                "org": [
+                    "Covenant House Toronto"
+                ],
+                "program": [
+                    "Covenant House Rights of Passage"
+                ],
+                "id": [
+                    1027.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.52576,
+                    43.59598
+                ]
+            },
+            "properties": {
+                "address": "351 Lake Shore Blvd E",
+                "name": [
+                    "Dixon Hall 351 Lake Shore Blvd E Respite"
+                ],
+                "org": [
+                    "Dixon Hall"
+                ],
+                "program": [
+                    "Dixon Hall 351 Lake Shore Blvd E. Respite"
+                ],
+                "id": [
+                    1149.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.37456,
+                    43.65945
+                ]
+            },
+            "properties": {
+                "address": "354 George St",
+                "name": [
+                    "354 George Street",
+                    "Dixon Hall 354 George St"
+                ],
+                "org": [
+                    "Dixon Hall"
+                ],
+                "program": [
+                    "Dixon Hall - 354 George"
+                ],
+                "id": [
+                    1157.0,
+                    1128.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.52295,
+                    43.65461
+                ]
+            },
+            "properties": {
+                "address": "65 Dundas St E",
+                "name": [
+                    "Dixon Hall Bond Place Hotel Program"
+                ],
+                "org": [
+                    "Dixon Hall"
+                ],
+                "program": [
+                    "Dixon Hall - Bond Place Hotel Program"
+                ],
+                "id": [
+                    1176.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.29836,
+                    43.6893
+                ]
+            },
+            "properties": {
+                "address": "2714 Danforth Ave",
+                "name": [
+                    "Dixon Hall Heyworth House"
+                ],
+                "org": [
+                    "Dixon Hall"
+                ],
+                "program": [
+                    "Dixon Hall - Heyworth House",
+                    "Dixon Hall - Heyworth House - Top Bunk"
+                ],
+                "id": [
+                    1015.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.55435,
+                    43.70268
+                ]
+            },
+            "properties": {
+                "address": "60 York St",
+                "name": [
+                    "HFS Downtown Hotel Program",
+                    "Downtown Hotel Program - York"
+                ],
+                "org": [
+                    "Dixon Hall",
+                    "Homes First Society",
+                    "Covenant House Toronto",
+                    "Eva's Initiatives",
+                    "YMCA of Greater Toronto"
+                ],
+                "program": [
+                    "Dixon Hall Downtown Hotel - Mixed Adult Program",
+                    "Homes First Society Downtown Hotel - Mixed Adult Program",
+                    "Covenant House - York St",
+                    "Eva's Satellite - York Street",
+                    "YMCA - York St."
+                ],
+                "id": [
+                    1167.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38205,
+                    43.65819
+                ]
+            },
+            "properties": {
+                "address": "56 Yonge St",
+                "name": [
+                    "Dixon Hall Downtown Hotel"
+                ],
+                "org": [
+                    "Dixon Hall"
+                ],
+                "program": [
+                    "Dixon Hall Downtown Hotel Program - Mixed Adult"
+                ],
+                "id": [
+                    1177.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3743,
+                    43.66014
+                ]
+            },
+            "properties": {
+                "address": "349 George St",
+                "name": [
+                    "Dixon Hall Schoolhouse"
+                ],
+                "org": [
+                    "Dixon Hall"
+                ],
+                "program": [
+                    "Dixon Hall - Schoolhouse",
+                    "Dixon Hall - School TOP BUNK"
+                ],
+                "id": [
+                    1020.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.50323,
+                    43.7519
+                ]
+            },
+            "properties": {
+                "address": "60 Brant St",
+                "name": [
+                    "Eva's Phoenix"
+                ],
+                "org": [
+                    "Eva's Initiatives"
+                ],
+                "program": [
+                    "Eva's Phoenix"
+                ],
+                "id": [
+                    1025.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.28273,
+                    43.77751
+                ]
+            },
+            "properties": {
+                "address": "2035 Kennedy Rd",
+                "name": [
+                    "Multiple Youth & Adult Agencies Scarborough Hotel Program"
+                ],
+                "org": [
+                    "Eva's Initiatives",
+                    "Homes First Society",
+                    "Kennedy House Youth Services"
+                ],
+                "program": [
+                    "Eva's Initiatives Hotel Program",
+                    "HFS Scarborough Hotel Program - Mixed Adult",
+                    "Kennedy House Hotel Program"
+                ],
+                "id": [
+                    1174.0,
+                    1179.0,
+                    1173.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.36095,
+                    43.76335
+                ]
+            },
+            "properties": {
+                "address": "360 Lesmill Rd",
+                "name": [
+                    "Eva's Place"
+                ],
+                "org": [
+                    "Eva's Initiatives"
+                ],
+                "program": [
+                    "Eva's Place",
+                    "Eva's Place - ASP"
+                ],
+                "id": [
+                    1024.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.51729,
+                    43.65897
+                ]
+            },
+            "properties": {
+                "address": "25 Canterbury Pl",
+                "name": [
+                    "Eva's Satellite"
+                ],
+                "org": [
+                    "Eva's Initiatives"
+                ],
+                "program": [
+                    "Eva's Satellite",
+                    "Eva's Satellite - Canterbury Place"
+                ],
+                "id": [
+                    1023.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.51199,
+                    43.69504
+                ]
+            },
+            "properties": {
+                "address": "70 Denison Ave",
+                "name": [
+                    "Fife House Denison Ave"
+                ],
+                "org": [
+                    "Fife House Foundation"
+                ],
+                "program": [
+                    "Fife House Denison Program"
+                ],
+                "id": [
+                    1053.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3754,
+                    43.6676
+                ]
+            },
+            "properties": {
+                "address": "490 Sherbourne St",
+                "name": [
+                    "Fife House Sherbourne St"
+                ],
+                "org": [
+                    "Fife House Foundation"
+                ],
+                "program": [
+                    "Fife-Sherbourne Transitional Program"
+                ],
+                "id": [
+                    1054.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.36822,
+                    43.6591
+                ]
+            },
+            "properties": {
+                "address": "386 Dundas St E",
+                "name": [
+                    "Fred Victor Centre Transition to Housing Dundas St E"
+                ],
+                "org": [
+                    "Fred Victor Centre"
+                ],
+                "program": [
+                    "Fred Victor T2H Bedded Program"
+                ],
+                "id": [
+                    1099.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.37927,
+                    43.66762
+                ]
+            },
+            "properties": {
+                "address": "512 Jarvis St",
+                "name": [
+                    "Fred Victor Mary Sheffield House"
+                ],
+                "org": [
+                    "Fred Victor Centre"
+                ],
+                "program": [
+                    "Fred Victor Transition to Housing Bedded Program"
+                ],
+                "id": [
+                    1081.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.33638,
+                    43.77071
+                ]
+            },
+            "properties": {
+                "address": "185 Yorkland Blvd",
+                "name": [
+                    "Fred Victor Uptown Hotel Program"
+                ],
+                "org": [
+                    "Fred Victor Centre"
+                ],
+                "program": [
+                    "Fred Victor Centre Women's Hostel Hotel Program",
+                    "Fred Victor Uptown Hotel Program"
+                ],
+                "id": [
+                    1130.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.46691,
+                    43.71564
+                ]
+            },
+            "properties": {
+                "address": "1161 Caledonia Rd",
+                "name": [
+                    "Fred Victor Centre Bethlehem United Shelter"
+                ],
+                "org": [
+                    "Fred Victor Centre"
+                ],
+                "program": [
+                    "Fred Victor Bethlehem United Program"
+                ],
+                "id": [
+                    1055.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.40868,
+                    43.63552
+                ]
+            },
+            "properties": {
+                "address": "1A Strachan Ave",
+                "name": [
+                    "Fred Victor Centre 1A Strachan Ave Respite"
+                ],
+                "org": [
+                    "Fred Victor Centre"
+                ],
+                "program": [
+                    "Fred Victor 1A Strachan Ave Respite"
+                ],
+                "id": [
+                    1152.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.47862,
+                    43.66542
+                ]
+            },
+            "properties": {
+                "address": "257 Dundas St E",
+                "name": [
+                    "Friends of Ruby  "
+                ],
+                "org": [
+                    "Friends of Ruby"
+                ],
+                "program": [
+                    "Friends of Ruby - Transitional Housing",
+                    "Friends of Ruby - Emergency Housing"
+                ],
+                "id": [
+                    1187.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.43467,
+                    43.64115
+                ]
+            },
+            "properties": {
+                "address": "412 Queen St E",
+                "name": [
+                    "Good Shepherd Centre"
+                ],
+                "org": [
+                    "Good Shepherd Ministries"
+                ],
+                "program": [
+                    "Good Shepherd - D.A.R.E.",
+                    "Good Shepherd - Emergency/Resettlement",
+                    "Good Shepherd Centre - Top Bunk"
+                ],
+                "id": [
+                    1022.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.36238,
+                    43.65663
+                ]
+            },
+            "properties": {
+                "address": "35 Sydenham St",
+                "name": [
+                    "Good Shepherd Centre Barrett House"
+                ],
+                "org": [
+                    "Good Shepherd Ministries"
+                ],
+                "program": [
+                    "Good Shepherd Barrett House - Men's Program"
+                ],
+                "id": [
+                    1021.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.37549,
+                    43.66034
+                ]
+            },
+            "properties": {
+                "address": "335 Jarvis St",
+                "name": [
+                    "Good Shepherd Centre West End Hotel Program"
+                ],
+                "org": [
+                    "Good Shepherd Ministries"
+                ],
+                "program": [
+                    "Good Shepherd Centre West End Hotel - Men's Program"
+                ],
+                "id": [
+                    1168.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.26658,
+                    43.72826
+                ]
+            },
+            "properties": {
+                "address": "702 Kennedy Rd",
+                "name": [
+                    "HFS Kennedy Rd Women's Shelter"
+                ],
+                "org": [
+                    "Homes First Society"
+                ],
+                "program": [
+                    "Homes First Society- Kennedy Shelter Women's Program"
+                ],
+                "id": [
+                    1108.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.53302,
+                    43.59435
+                ]
+            },
+            "properties": {
+                "address": "545 Lake Shore Blvd W",
+                "name": [
+                    "HFS 545 Lake Shore Blvd W Shelter"
+                ],
+                "org": [
+                    "Homes First Society"
+                ],
+                "program": [
+                    "545 Lake Shore Blvd W. Couples",
+                    "545 Lake Shore Blvd W. Men",
+                    "545 Lake Shore Blvd W. Men Lower Level",
+                    "545 Lake Shore Blvd W. Women",
+                    "545 Lakeshore Blvd W. Men Respite Program Lower Level",
+                    "545 Lakeshore Blvd W. Men - Lower Level"
+                ],
+                "id": [
+                    1150.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4209,
+                    43.63209
+                ]
+            },
+            "properties": {
+                "address": "195 Princes' Blvd",
+                "name": [
+                    "HFS 195 Princes' Blvd "
+                ],
+                "org": [
+                    "Homes First Society",
+                    "Fred Victor Centre",
+                    "Dixon Hall"
+                ],
+                "program": [
+                    "Homes First Society - Better Living Centre - Winter Program",
+                    "Homes First Society - Better Living Centre - Warming Centre",
+                    "Fred Victor Warming Centre - Metro Hall",
+                    "Dixon Hall Winter Respite - BLC",
+                    "Fred Victor Winter Respite - BLC",
+                    "Fred Victor Winter Respite - BLC - TTC Surge Site",
+                    "Dixon Hall Winter Respite - BLC - TTC Surge Site"
+                ],
+                "id": [
+                    1125.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.25801,
+                    43.71753
+                ]
+            },
+            "properties": {
+                "address": "3576 St Clair Ave E",
+                "name": [
+                    "HFS St. Clair Ave E Shelter"
+                ],
+                "org": [
+                    "Homes First Society"
+                ],
+                "program": [
+                    "Homes First Society - Scarborough Shelter"
+                ],
+                "id": [
+                    1031.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.41753,
+                    43.78444
+                ]
+            },
+            "properties": {
+                "address": "5800 Yonge St ",
+                "name": [
+                    "HFS Willowdale Centre"
+                ],
+                "org": [
+                    "Homes First Society"
+                ],
+                "program": [
+                    "Homes First Society - Willowdale Centre - Men",
+                    "Homes First Society - Willowdale Centre - Women",
+                    "Homes First Society - 5800 Yonge Street - Warming Centre",
+                    "Homes First Society - 5800 Yonge St. Building B - Men"
+                ],
+                "id": [
+                    1153.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.41087,
+                    43.64073
+                ]
+            },
+            "properties": {
+                "address": "805A Wellington St W",
+                "name": [
+                    "HFS Strachan House"
+                ],
+                "org": [
+                    "Homes First Society"
+                ],
+                "program": [
+                    "Homes First Society - Flex Program",
+                    "Homes First Society - Strachan House"
+                ],
+                "id": [
+                    1033.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.46261,
+                    43.68944
+                ]
+            },
+            "properties": {
+                "address": "422 Gilbert Ave",
+                "name": [
+                    "Horizons for Youth"
+                ],
+                "org": [
+                    "Horizon for Youth"
+                ],
+                "program": [
+                    "Horizons for Youth"
+                ],
+                "id": [
+                    1019.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.34965,
+                    43.69093
+                ]
+            },
+            "properties": {
+                "address": "1076 Pape Ave",
+                "name": [
+                    "Kennedy House Youth Shelter"
+                ],
+                "org": [
+                    "Kennedy House Youth Services"
+                ],
+                "program": [
+                    "Kennedy House Youth Shelter Bedded Program",
+                    "Kennedy House Youth Shelter - Top Bunk"
+                ],
+                "id": [
+                    1080.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.53031,
+                    43.59058
+                ]
+            },
+            "properties": {
+                "address": "21 Park Rd",
+                "name": [
+                    "Margaret's 21 Park Rd Respite "
+                ],
+                "org": [
+                    "Margaret's Housing and Community Support Services"
+                ],
+                "program": [
+                    "Margaret's 21 Park Rd. Respite",
+                    "Margaret's 21 Park Rd. Respite - ASP"
+                ],
+                "id": [
+                    1118.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.43676,
+                    43.69022
+                ]
+            },
+            "properties": {
+                "address": "14 Vaughan Rd",
+                "name": [
+                    "Na-Me-Res"
+                ],
+                "org": [
+                    "Na-Me-Res (Native Men's Residence)"
+                ],
+                "program": [
+                    "Na-Me-Res (Native Men's Residence)",
+                    "Na-Me-Res (Native Men's Residence) - Top Bunk"
+                ],
+                "id": [
+                    1002.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.44114,
+                    43.69256
+                ]
+            },
+            "properties": {
+                "address": "26 Vaughan Rd",
+                "name": [
+                    "Sagatay "
+                ],
+                "org": [
+                    "Na-Me-Res (Native Men's Residence)"
+                ],
+                "program": [
+                    "Sagatay"
+                ],
+                "id": [
+                    1013.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.40881,
+                    43.65847
+                ]
+            },
+            "properties": {
+                "address": "558 Bathurst St",
+                "name": [
+                    "Native Child & Family Services Toronto"
+                ],
+                "org": [
+                    "Native Child & Family Services Toronto"
+                ],
+                "program": [
+                    "Native Child & Family Services Toronto"
+                ],
+                "id": [
+                    1018.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.33859,
+                    43.66283
+                ]
+            },
+            "properties": {
+                "address": "126 Pape Ave",
+                "name": [
+                    "SVDP Amelie House"
+                ],
+                "org": [
+                    "Society of St.Vincent De Paul"
+                ],
+                "program": [
+                    "St.Vincent De Paul - Amelie House - Women's Shelter"
+                ],
+                "id": [
+                    1050.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.49731,
+                    43.61821
+                ]
+            },
+            "properties": {
+                "address": "60 Newcastle St",
+                "name": [
+                    "SVDP Elisa House"
+                ],
+                "org": [
+                    "Society of St.Vincent De Paul"
+                ],
+                "program": [
+                    "St.Vincent De Paul - Elisa House",
+                    "Society of Saint Vincent de Paul - Elisa House - Top Bunk"
+                ],
+                "id": [
+                    1049.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38524,
+                    43.65866
+                ]
+            },
+            "properties": {
+                "address": "70 Gerrard St E",
+                "name": [
+                    "SVDP Mary's Home"
+                ],
+                "org": [
+                    "Society of St.Vincent De Paul"
+                ],
+                "program": [
+                    "St.Vincent De Paul - Mary's Home - Emergency Shelter",
+                    "Society of Saint Vincent de Paul - Mary's Home - Top Bunk",
+                    "Society of Saint Vincent de Paul - Mary's Home - ASP"
+                ],
+                "id": [
+                    1048.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.39544,
+                    43.79811
+                ]
+            },
+            "properties": {
+                "address": "3410 Bayview Ave",
+                "name": [
+                    "SVDP St. Clare's Residence"
+                ],
+                "org": [
+                    "Society of St.Vincent De Paul"
+                ],
+                "program": [
+                    "St.Vincent De Paul - St. Clare's Residence - Transitional Housing"
+                ],
+                "id": [
+                    1039.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3995,
+                    43.64908
+                ]
+            },
+            "properties": {
+                "address": "25 Augusta Ave",
+                "name": [
+                    "St. Felix Centre 25 Augusta Ave. Respite "
+                ],
+                "org": [
+                    "St. Felix Social Ministries Outreach"
+                ],
+                "program": [
+                    "St. Felix Centre 25 Augusta Ave. Respite"
+                ],
+                "id": [
+                    1105.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.42415,
+                    43.63836
+                ]
+            },
+            "properties": {
+                "address": "69 Fraser Ave",
+                "name": [
+                    "St. Felix Centre 69 Fraser Ave. Respite "
+                ],
+                "org": [
+                    "St. Felix Social Ministries Outreach"
+                ],
+                "program": [
+                    "St. Felix Centre 69 Fraser Respite"
+                ],
+                "id": [
+                    1148.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5428,
+                    43.61756
+                ]
+            },
+            "properties": {
+                "address": "98 The Esplanade",
+                "name": [
+                    "St. Felix Centre Esplanade Response Program"
+                ],
+                "org": [
+                    "St. Felix Social Ministries Outreach"
+                ],
+                "program": [
+                    "St. Felix Respite - Esplanade Program"
+                ],
+                "id": [
+                    1178.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.48851,
+                    43.64751
+                ]
+            },
+            "properties": {
+                "address": "525 Bloor St E",
+                "name": [
+                    "St.Simon's Shelter"
+                ],
+                "org": [
+                    "St. Simon's Shelter Inc."
+                ],
+                "program": [
+                    "St. Simon's Shelter"
+                ],
+                "id": [
+                    1038.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.37243,
+                    43.65924
+                ]
+            },
+            "properties": {
+                "address": "87 Pembroke St",
+                "name": [
+                    "Street Haven"
+                ],
+                "org": [
+                    "Street Haven At The Crossroads"
+                ],
+                "program": [
+                    "Street Haven - Emergency Hostel"
+                ],
+                "id": [
+                    1045.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38273,
+                    43.65917
+                ]
+            },
+            "properties": {
+                "address": "26 Gerrard St E",
+                "name": [
+                    "Street Haven Downtown Hotel Program"
+                ],
+                "org": [
+                    "Street Haven At The Crossroads"
+                ],
+                "program": [
+                    "Street Haven Hotel Program"
+                ],
+                "id": [
+                    1180.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4014,
+                    43.65091
+                ]
+            },
+            "properties": {
+                "address": "165 Grange Ave",
+                "name": [
+                    "Sojourn House Hotel Program"
+                ],
+                "org": [
+                    "The MUC Shelter Corporation"
+                ],
+                "program": [
+                    "Sojourn House - Refugee Family Hotel Program"
+                ],
+                "id": [
+                    1132.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.36671,
+                    43.6546
+                ]
+            },
+            "properties": {
+                "address": "101 Ontario St",
+                "name": [
+                    "Sojourn House Ontario St"
+                ],
+                "org": [
+                    "The MUC Shelter Corporation"
+                ],
+                "program": [
+                    "Sojourn House Bedded Program",
+                    "Sojourn House Transitional Housing Program"
+                ],
+                "id": [
+                    1059.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4632,
+                    43.66566
+                ]
+            },
+            "properties": {
+                "address": "2808 Dundas St W",
+                "name": [
+                    "SA Evangeline Residence"
+                ],
+                "org": [
+                    "The Salvation Army of Canada"
+                ],
+                "program": [
+                    "Salvation Army - Evangeline Residence - Women's Ministry"
+                ],
+                "id": [
+                    1036.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.52723,
+                    43.75625
+                ]
+            },
+            "properties": {
+                "address": "30 Norfinch Dr",
+                "name": [
+                    "SA North Hotel Program"
+                ],
+                "org": [
+                    "The Salvation Army of Canada"
+                ],
+                "program": [
+                    "Salvation Army Florence Booth Hotel Program",
+                    "Salvation Army New Hope Hotel Program"
+                ],
+                "id": [
+                    1175.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.37248,
+                    43.65232
+                ]
+            },
+            "properties": {
+                "address": "107 Jarvis St",
+                "name": [
+                    "SA Gateway"
+                ],
+                "org": [
+                    "The Salvation Army of Canada"
+                ],
+                "program": [
+                    "Salvation Army - Gateway - Men's Hostel"
+                ],
+                "id": [
+                    1037.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.23597,
+                    43.78327
+                ]
+            },
+            "properties": {
+                "address": "50 Estate Dr",
+                "name": [
+                    "SA Scarborough Hotel Program"
+                ],
+                "org": [
+                    "The Salvation Army of Canada"
+                ],
+                "program": [
+                    "SA Scarborough Hotel - Men's Program"
+                ],
+                "id": [
+                    1166.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.36913,
+                    43.65524
+                ]
+            },
+            "properties": {
+                "address": "135 Sherbourne St",
+                "name": [
+                    "Maxwell Meighen Centre"
+                ],
+                "org": [
+                    "The Salvation Army of Canada"
+                ],
+                "program": [
+                    "Salvation Army - Maxwell Meighen - Men's Hostel",
+                    "Salvation Army - Maxwell Meighen Primary Support Unit",
+                    "Salvation Army Maxwell Meighen Transition to Housing"
+                ],
+                "id": [
+                    1057.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.32939,
+                    43.66211
+                ]
+            },
+            "properties": {
+                "address": "29A Leslie St",
+                "name": [
+                    "SA New Hope Leslieville"
+                ],
+                "org": [
+                    "The Salvation Army of Canada"
+                ],
+                "program": [
+                    "Salvation Army - New Hope - Men's Hostel"
+                ],
+                "id": [
+                    1126.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.56576,
+                    43.73929
+                ]
+            },
+            "properties": {
+                "address": "2671 Islington Ave",
+                "name": [
+                    "SA Islington Seniors' Shelter"
+                ],
+                "org": [
+                    "The Salvation Army of Canada"
+                ],
+                "program": [
+                    "Salvation Army - Islington Seniors' Shelter Men's Program",
+                    "Salvation Army - Islington Seniors' Shelter Women's Program",
+                    "Salvation Army - Islington Seniors' Shelter Women's Program - ASP"
+                ],
+                "id": [
+                    1146.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.40081,
+                    43.65869
+                ]
+            },
+            "properties": {
+                "address": "502 Spadina Ave",
+                "name": [
+                    "Scott Mission"
+                ],
+                "org": [
+                    "The Scott Mission Inc."
+                ],
+                "program": [
+                    "Scott Mission - Men's Ministry Overnight Program",
+                    "Scott Mission - Winter Respite",
+                    "Scott Mission - Respite"
+                ],
+                "id": [
+                    1014.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.40628,
+                    43.67362
+                ]
+            },
+            "properties": {
+                "address": "191 Spadina Rd",
+                "name": [
+                    "Toronto Community Hostel (MUC)"
+                ],
+                "org": [
+                    "Toronto Community Hostel"
+                ],
+                "program": [
+                    "Toronto Community Hostel (Families)",
+                    "Toronto Community Hostel (Singles)",
+                    "Toronto Community Hostel (Refugee Families)",
+                    "Toronto Community Hostel (Refugee Singles)"
+                ],
+                "id": [
+                    1120.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.37409,
+                    43.667
+                ]
+            },
+            "properties": {
+                "address": "95 Wellesley St E",
+                "name": [
+                    "Turning Point Youth Services "
+                ],
+                "org": [
+                    "Turning Point Youth Services"
+                ],
+                "program": [
+                    "Turning Point Youth Services Shelter",
+                    "Turning Point Youth Shelter - ASP"
+                ],
+                "id": [
+                    1041.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.24602,
+                    43.77671
+                ]
+            },
+            "properties": {
+                "address": "705 Progress Ave",
+                "name": [
+                    "Warden Woods 705 Progress Ave Respite ",
+                    "Progress Avenue Shelter"
+                ],
+                "org": [
+                    "Warden Woods Community Centre",
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Warden Woods 705 Progress Ave Respite",
+                    "Progress Shelter",
+                    "Scarborough Progress centre- ASP"
+                ],
+                "id": [
+                    1115.0,
+                    1360.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.34324,
+                    43.66
+                ]
+            },
+            "properties": {
+                "address": "189B Booth Ave",
+                "name": [
+                    "Red Door Family Shelter"
+                ],
+                "org": [
+                    "WoodGreen Red Door Family Shelter"
+                ],
+                "program": [
+                    "Red Door - Family Shelter"
+                ],
+                "id": [
+                    1001.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.39831,
+                    43.64883
+                ]
+            },
+            "properties": {
+                "address": "7 Vanauley St",
+                "name": [
+                    "Vanauley Street YMCA Emergency Shelter"
+                ],
+                "org": [
+                    "YMCA of Greater Toronto"
+                ],
+                "program": [
+                    "YMCA House-Vanauley"
+                ],
+                "id": [
+                    1096.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.40562,
+                    43.6679
+                ]
+            },
+            "properties": {
+                "address": "21 Walmer Rd",
+                "name": [
+                    "YMCA Sprott House "
+                ],
+                "org": [
+                    "YMCA of Greater Toronto"
+                ],
+                "program": [
+                    "YMCA Sprott House"
+                ],
+                "id": [
+                    1101.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38971,
+                    43.68479
+                ]
+            },
+            "properties": {
+                "address": "80 Woodlawn Ave E",
+                "name": [
+                    "YWCA 1st Stop Woodlawn "
+                ],
+                "org": [
+                    "YWCA Toronto"
+                ],
+                "program": [
+                    "YWCA - Adult Women Shelter",
+                    "YWCA - Youth Shelter"
+                ],
+                "id": [
+                    1062.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.44443,
+                    43.63935
+                ]
+            },
+            "properties": {
+                "address": "1684 Queen St E",
+                "name": [
+                    "YWCA East End Hotel Program",
+                    "SSHA East End Hotel Program"
+                ],
+                "org": [
+                    "YWCA Toronto",
+                    "City of Toronto"
+                ],
+                "program": [
+                    "YWCA Davenport Women's Hotel Program",
+                    "YWCA Davenport Youth Hotel Program",
+                    "SSHA Queen East Hotel Program"
+                ],
+                "id": [
+                    1171.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.58027,
+                    43.73636
+                ]
+            },
+            "properties": {
+                "address": "6 Warrendale Ct",
+                "name": [
+                    "Youth Without Shelter "
+                ],
+                "org": [
+                    "Youth Without Shelter"
+                ],
+                "program": [
+                    "Youth without Shelter Emergency Shelter Program",
+                    "Youth without Shelter Stay In School Program"
+                ],
+                "id": [
+                    1064.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.28283,
+                    43.71784
+                ]
+            },
+            "properties": {
+                "address": "747 Warden Ave",
+                "name": [
+                    "YouthLink "
+                ],
+                "org": [
+                    "YouthLink"
+                ],
+                "program": [
+                    "YouthLink Emergency Program",
+                    "YouthLink Transitional Program",
+                    "YouthLink Emergency Program - ASP"
+                ],
+                "id": [
+                    1147.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.51918,
+                    43.70605
+                ]
+            },
+            "properties": {
+                "address": "76 Church St",
+                "name": [
+                    "SSHA Downtown Response Program",
+                    "TSSS Downtown Response Program"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Seaton House Hostel Response Program"
+                ],
+                "id": [
+                    1190.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.54895,
+                    43.63939
+                ]
+            },
+            "properties": {
+                "address": "962 Bloor St W",
+                "name": [
+                    "Sistering"
+                ],
+                "org": [
+                    "Sistering: A Women's Place"
+                ],
+                "program": [
+                    "Sistering Overnight Women's Program"
+                ],
+                "id": [
+                    1104.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.43081,
+                    43.65268
+                ]
+            },
+            "properties": {
+                "address": "1059 College Street",
+                "name": [
+                    "Fred Victor Centre Fatima House"
+                ],
+                "org": [
+                    "Fred Victor Centre"
+                ],
+                "program": [
+                    "Fred Victor Women's Hostel Program"
+                ],
+                "id": [
+                    1193.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.49787,
+                    43.62722
+                ]
+            },
+            "properties": {
+                "address": "45 The Esplanade",
+                "name": [
+                    "45 The Esplanade"
+                ],
+                "org": [
+                    "Homes First Society"
+                ],
+                "program": [
+                    "HFS 45 The Esplanade"
+                ],
+                "id": [
+                    1191.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.37613,
+                    43.67001
+                ]
+            },
+            "properties": {
+                "address": "556 Sherbourne St",
+                "name": [
+                    "St. Simon's Clubbe House"
+                ],
+                "org": [
+                    "St. Simon's Shelter Inc."
+                ],
+                "program": [
+                    "St. Simon's Clubbe House",
+                    "St Simon's Clubbe House - ASP"
+                ],
+                "id": [
+                    1192.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.40594,
+                    43.64449
+                ]
+            },
+            "properties": {
+                "address": "67 Adelaide St E",
+                "name": [
+                    "Adelaide Resource Centre for Women"
+                ],
+                "org": [
+                    "Fred Victor Centre"
+                ],
+                "program": [
+                    "Fred Victor The Phoenix Women's 24/7 Drop-In"
+                ],
+                "id": [
+                    1007.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.23565,
+                    43.78791
+                ]
+            },
+            "properties": {
+                "address": "20 Milner Business Ct",
+                "name": [
+                    "Scarborough Women's Shelter - Milner"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Scarborough Women's Shelter - Milner"
+                ],
+                "id": [
+                    1194.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.44544,
+                    43.67409
+                ]
+            },
+            "properties": {
+                "address": "92 Peter St",
+                "name": [
+                    "Multiple Youth Agencies Downtown Hotel Program"
+                ],
+                "org": [
+                    "Covenant House Toronto",
+                    "Native Child & Family Services Toronto",
+                    "YMCA of Greater Toronto",
+                    "Eva's Initiatives"
+                ],
+                "program": [
+                    "Covenant House - Hotel Program",
+                    "Native Child Youth Hotel Program",
+                    "YMCA Youth Hotel Program",
+                    0,
+                    "Eva's Satellite Downtown Hotel Program.",
+                    "Eva's Place Hotel"
+                ],
+                "id": [
+                    1198.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.19352,
+                    43.76628
+                ]
+            },
+            "properties": {
+                "address": "4117 Lawrence Ave E",
+                "name": [
+                    "HFS - Lawrence East Shelter"
+                ],
+                "org": [
+                    "Homes First Society"
+                ],
+                "program": [
+                    "HFS - Lawrence East Shelter",
+                    "Homes First Society - 4117 Lawrence Ave East - ASP"
+                ],
+                "id": [
+                    1195.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.43734,
+                    43.67412
+                ]
+            },
+            "properties": {
+                "address": "348 Davenport Road",
+                "name": [
+                    "YWCA Davenport Shelter"
+                ],
+                "org": [
+                    "YWCA Toronto"
+                ],
+                "program": [
+                    "YWCA Davenport - Adult",
+                    "YWCA Davenport - Youth"
+                ],
+                "id": [
+                    1129.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.34141,
+                    43.80203
+                ]
+            },
+            "properties": {
+                "address": "101 Placer Ct",
+                "name": [
+                    0,
+                    "HFS Placer"
+                ],
+                "org": [
+                    "Homes First Society"
+                ],
+                "program": [
+                    0,
+                    "Homes First Society - Placer Mixed Adult Program",
+                    "Homes First Society - 101 Placer - ASP"
+                ],
+                "id": [
+                    1200.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.41753,
+                    43.78444
+                ]
+            },
+            "properties": {
+                "address": "5800 Yonge St",
+                "name": [
+                    "HFS Willowdale Centre"
+                ],
+                "org": [
+                    "Homes First Society"
+                ],
+                "program": [
+                    "Homes First Society - Willowdale Centre - Men",
+                    "Homes First Society - Willowdale Centre - Women",
+                    "Homes First Society - 5800 Yonge Street - Warming Centre",
+                    "Homes First Society - Willowdale Centre - Co-Ed",
+                    "Homes First Society - Willowdale - Refugee - Building B",
+                    "HFS - Willowdale - Building A - Refugee Men",
+                    "HFS - Willowdale - Building B - Refugee Women",
+                    "HFS - Willowdale - Refugee Men - Building A - ASP",
+                    "HFS - Willowdale - Refugee Women - Building B - ASP"
+                ],
+                "id": [
+                    1153.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.30061,
+                    43.7694
+                ]
+            },
+            "properties": {
+                "address": "22 Metropolitan Rd",
+                "name": [
+                    "HFS - Metro Strachan"
+                ],
+                "org": [
+                    "Homes First Society"
+                ],
+                "program": [
+                    "HFS - Metro Strachan - Co-ed",
+                    "Homes First Society - Metro - Refugee Singles",
+                    "Homes First Society - Metro Refugee - Winter Respite",
+                    "Homes First Society - Metro - Refugee Respite."
+                ],
+                "id": [
+                    1220.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.43323,
+                    43.64072
+                ]
+            },
+            "properties": {
+                "address": "220 Cowan Ave",
+                "name": [
+                    "Masaryk-Cowan CC"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "COVID19 Response - Masaryk-Cowan"
+                ],
+                "id": [
+                    1240.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.28049,
+                    43.7149
+                ]
+            },
+            "properties": {
+                "address": "25 Mendelssohn St",
+                "name": [
+                    "Warden Hilltop CC"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "COVID19 Response - Warden Hilltop"
+                ],
+                "id": [
+                    1158.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.39908,
+                    43.65414
+                ]
+            },
+            "properties": {
+                "address": "346 Spadina Ave.",
+                "name": [
+                    "The Scott Mission - Kensington location"
+                ],
+                "org": [
+                    "The Scott Mission Inc."
+                ],
+                "program": [
+                    "Scott Mission - Men's Ministry Overnight Program"
+                ],
+                "id": [
+                    1300.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5765,
+                    43.69212
+                ]
+            },
+            "properties": {
+                "address": "640 Dixon Rd.",
+                "name": [
+                    "COSTI Hotel Program Dixon"
+                ],
+                "org": [
+                    "COSTI Immigrant Services"
+                ],
+                "program": [
+                    "COSTI - Hotel Program - Dixon (Refugee Families)",
+                    "COSTI - Hotel Program - Dixon (Refugee Singles)"
+                ],
+                "id": [
+                    1320.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.50997,
+                    43.70805
+                ]
+            },
+            "properties": {
+                "address": "89 Church Ave.",
+                "name": [
+                    "Mitchell Field CC"
+                ],
+                "org": [
+                    "Dixon Hall"
+                ],
+                "program": [
+                    "Mitchell Field Warming Centre"
+                ],
+                "id": [
+                    1400.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.51588,
+                    43.70331
+                ]
+            },
+            "properties": {
+                "address": "55 John St",
+                "name": [
+                    "Metro Hall"
+                ],
+                "org": [
+                    "Fred Victor Centre"
+                ],
+                "program": [
+                    "Fred Victor Warming Centre - Metro Hall"
+                ],
+                "id": [
+                    1078.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.52988,
+                    43.75729
+                ]
+            },
+            "properties": {
+                "address": "66 Norfinch Dr",
+                "name": [
+                    "Etobicoke Hotel Site 1"
+                ],
+                "org": [
+                    "The Salvation Army of Canada"
+                ],
+                "program": [
+                    "Salvation Army - Florence Booth - Hotel 400 - Women",
+                    "Salvation Army - New Hope - Hotel 400 - Men"
+                ],
+                "id": [
+                    1189.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.25724,
+                    43.77281
+                ]
+            },
+            "properties": {
+                "address": "150 Borough Dr",
+                "name": [
+                    "Scarborough Civic Centre"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Scarborough Warming Centre - Scarborough CC"
+                ],
+                "id": [
+                    1420.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.39859,
+                    43.65647
+                ]
+            },
+            "properties": {
+                "address": "58 Cecil Street",
+                "name": [
+                    "CONC - Warming Centre - Cecil"
+                ],
+                "org": [
+                    "Christie Ossington Neighbourhood Centre",
+                    "City of Toronto"
+                ],
+                "program": [
+                    "Christie Ossington Warming Centre - Cecil CC",
+                    "TSSS - Warming Centre - Cecil Community Centre"
+                ],
+                "id": [
+                    1440.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.41425,
+                    43.77829
+                ]
+            },
+            "properties": {
+                "address": "12 Holmes Ave",
+                "name": [
+                    "Dixon Hall Warming Centre - North York",
+                    "Dixon Hall - Warming Centre North York"
+                ],
+                "org": [
+                    "Dixon Hall"
+                ],
+                "program": [
+                    "Dixon Hall Warming Centre - Willowdale"
+                ],
+                "id": [
+                    1460.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.40684,
+                    43.78039
+                ]
+            },
+            "properties": {
+                "address": "15 Olive Ave",
+                "name": [
+                    "Dixon Hall - Willowdale - Olive"
+                ],
+                "org": [
+                    "Dixon Hall"
+                ],
+                "program": [
+                    "Dixon Hall Warming Centre - Willowdale"
+                ],
+                "id": [
+                    1460.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.55435,
+                    43.70268
+                ]
+            },
+            "properties": {
+                "address": "60 York Street",
+                "name": [
+                    "Downtown Hotel Program - York"
+                ],
+                "org": [
+                    "Eva's Initiatives"
+                ],
+                "program": [
+                    "Eva's Satellite - York Street"
+                ],
+                "id": [
+                    1167.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.40538,
+                    43.67119
+                ]
+            },
+            "properties": {
+                "address": "111 Spadina Rd",
+                "name": [
+                    "Native Child & Family - Spadina"
+                ],
+                "org": [
+                    "Native Child & Family Services Toronto"
+                ],
+                "program": [
+                    "Niizhoodenh Mshiikenhik - Twin Turtles"
+                ],
+                "id": [
+                    1500.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38449,
+                    43.65418
+                ]
+            },
+            "properties": {
+                "address": "75 Elizabeth Street",
+                "name": [
+                    "Fred Victor Elizabeth"
+                ],
+                "org": [
+                    "Fred Victor Centre"
+                ],
+                "program": [
+                    "Fred Victor Warming Centre - Elizabeth"
+                ],
+                "id": [
+                    1521.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.21909,
+                    43.77275
+                ]
+            },
+            "properties": {
+                "address": "885 Scarborough Golf Club Road",
+                "name": [
+                    "885 Scarborough Golf Club Road"
+                ],
+                "org": [
+                    "City of Toronto"
+                ],
+                "program": [
+                    "SSHA - Warming Centre - Scarborough Golf Club Road",
+                    "TSSS - Warming Centre - Scarborough Golf Club Road"
+                ],
+                "id": [
+                    1561.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.39623,
+                    43.64772
+                ]
+            },
+            "properties": {
+                "address": "136 Spadina Rd",
+                "name": [
+                    "Christie Ossington - Spadina Rd"
+                ],
+                "org": [
+                    "Christie Ossington Neighbourhood Centre"
+                ],
+                "program": [
+                    "Christie Ossington Warming Centre - Spadina Rd"
+                ],
+                "id": [
+                    1541.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38452,
+                    43.65429
+                ]
+            },
+            "properties": {
+                "address": "81 Elizabeth Street",
+                "name": [
+                    "Fred Victor Elizabeth"
+                ],
+                "org": [
+                    "Fred Victor Centre"
+                ],
+                "program": [
+                    "Fred Victor Warming Centre - Elizabeth"
+                ],
+                "id": [
+                    1521.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.60039,
+                    43.68762
+                ]
+            },
+            "properties": {
+                "address": "970 Dixon Rd",
+                "name": [
+                    "CRC Hotel Program Dixon"
+                ],
+                "org": [
+                    "The Canadian Red Cross Society"
+                ],
+                "program": [
+                    "Canadian Red Cross - Hotel Program - Dixon (Refugee Families)",
+                    "Canadian Red Cross - Hotel Program - Dixon (Refugee Singles)"
+                ],
+                "id": [
+                    1601.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.60167,
+                    43.65246
+                ]
+            },
+            "properties": {
+                "address": "5515 Eglinton Ave West",
+                "name": [
+                    "CRC Hotel Program Eglinton"
+                ],
+                "org": [
+                    "The Canadian Red Cross Society"
+                ],
+                "program": [
+                    "Canadian Red Cross - Hotel Program - Eglinton (Refugee Singles)",
+                    "Canadian Red Cross - Hotel Program - Eglinton (Refugee Families)"
+                ],
+                "id": [
+                    1581.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.40582,
+                    43.67398
+                ]
+            },
+            "properties": {
+                "address": "158 Madison Ave.",
+                "name": [
+                    "Covenant House - Madison"
+                ],
+                "org": [
+                    "Covenant House Toronto"
+                ],
+                "program": [
+                    "Covenant House - Madison House - Refugee Youth"
+                ],
+                "id": [
+                    1621.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.45306,
+                    43.65761
+                ]
+            },
+            "properties": {
+                "address": "2387 Dundas Street West",
+                "name": [
+                    "Romero-Edna Lane House"
+                ],
+                "org": [
+                    "Toronto Refugee Community Non-Profit Homes and Services"
+                ],
+                "program": [
+                    "Romero - Edna Lane House Transitional Shelter"
+                ],
+                "id": [
+                    1641.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.41433,
+                    43.64538
+                ]
+            },
+            "properties": {
+                "address": "870 Queen St E",
+                "name": [
+                    "Jimmie Simpson CC"
+                ],
+                "org": [
+                    "Dixon Hall"
+                ],
+                "program": [
+                    "Dixon Hall Warming Centre - Jimmie Simpson"
+                ],
+                "id": [
+                    1165.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.51362,
+                    43.59989
+                ]
+            },
+            "properties": {
+                "address": "18 Fourteenth Street",
+                "name": [
+                    "CHT Thrive Transitional Shelter"
+                ],
+                "org": [
+                    "Covenant House Toronto"
+                ],
+                "program": [
+                    "CHT Thrive Transitional shelter for refugee youth"
+                ],
+                "id": [
+                    1661.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.36954,
+                    43.66376
+                ]
+            },
+            "properties": {
+                "address": "213 Carlton Street",
+                "name": [
+                    "213 Carlton Street"
+                ],
+                "org": [
+                    "Canadian Mental Health Association - Toronto Branch"
+                ],
+                "program": [
+                    "CMHA-TO - Carlton House - Mental Health & Addictions -  Solace 2",
+                    "CMHA-TO - Carlton House - Mental Health & Addictions - Solace 1"
+                ],
+                "id": [
+                    1721.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3308,
+                    43.67011
+                ]
+            },
+            "properties": {
+                "address": "179 Gerrard St. East",
+                "name": [
+                    "La Passerelle I.D.E. L'Agapanthe"
+                ],
+                "org": [
+                    "La Passerelle Integration et Development Economique"
+                ],
+                "program": [
+                    "La Passerelle I.D.E. - L'Agapanthe - Maison de Transition"
+                ],
+                "id": [
+                    1741.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.18391,
+                    43.77463
+                ]
+            },
+            "properties": {
+                "address": "4584 Kingston Road",
+                "name": [
+                    "Warden Woods - Kingston Road Shelter"
+                ],
+                "org": [
+                    "Warden Woods Community Centre"
+                ],
+                "program": [
+                    "Warden Woods - Kingston Road Shelter"
+                ],
+                "id": [
+                    1761.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.40505,
+                    43.64464
+                ]
+            },
+            "properties": {
+                "address": "629 Adelaide St W",
+                "name": [
+                    "St. Felix Ctr - Adelaide Shelter"
+                ],
+                "org": [
+                    "St. Felix Social Ministries Outreach"
+                ],
+                "program": [
+                    "St. Felix Centre - 629 Adelaide St."
+                ],
+                "id": [
+                    1781.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.46888,
+                    43.66534
+                ]
+            },
+            "properties": {
+                "address": "981 Dundas St W",
+                "name": [
+                    "Matthew House - Dundas House"
+                ],
+                "org": [
+                    "Matthew House Refugee Services-Toronto"
+                ],
+                "program": [
+                    "Matthew House Toronto - Dundas refugee Transitional Home"
+                ],
+                "id": [
+                    1701.0
+                ]
+            }
+        }
+    ]
+}

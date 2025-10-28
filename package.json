@@ -2,7 +2,7 @@
   "name": "shelter-data-story",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://andre053.github.io/toronto-shelter-occupancy",
+  "homepage": "http://project.andredebiasi.ca",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

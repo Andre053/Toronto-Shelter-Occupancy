@@ -3,9 +3,9 @@ import { LineChart } from '@/components/LineChart';
 import { GraphData, GeoData, AllStatsFsa, ShelterDataList } from '@/types/types';
 import { useState, useEffect } from 'react';
 import { Section, SectionHeading, SectionSubHeading, SectionContent, Link, setJsonData, filterFsaStats } from '@/app/utils';
-import { ShelterMap } from './Map';
+import { ShelterMap } from '@/components/Map';
 import { FeatureCollection } from 'geojson';
-import { MultiLineChart } from './MultiLineChart';
+import { MultiLineChart } from '@/components/MultiLineChart';
 
 export default function Story() {
     const [chartDailyUserCount, setChartDailyUserCount] = useState<GraphData | null>(null);

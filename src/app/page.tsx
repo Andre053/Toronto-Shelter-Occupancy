@@ -1,17 +1,17 @@
 import { Button } from "@mui/material";
-import torontoSkyline from "../../public/toronto-skyline.jpg"
 
+// runs at build time 
+//export async function getStaticProps() {
+//  const res = await fetch('../public/toronto-skyline.jpg');
+//}
 
-// TODO: Initial home page is empty
-// height={torontoSkyline.height} width={torontoSkyline.width}
 export default async function Home() {
-  console.log({torontoSkyline})
   return (
     <div className="grid grid-cols-1 text-center content-center relative bg-blue">
       <figure>
         <figcaption>
           <div className="relative">
-            <img src={torontoSkyline.src} alt="Toronto skyline from Broadview avenue" className="w-full z-1" />
+            <img src={'/toronto-skyline.jpg'} alt="Toronto skyline from Broadview avenue" className="w-full z-1" />
             <div className="absolute bg-blue w-full h-full top-0 left-0"/>
           </div>
           <span>&quot;Toronto Skyline&quot; by jareed. </span>
